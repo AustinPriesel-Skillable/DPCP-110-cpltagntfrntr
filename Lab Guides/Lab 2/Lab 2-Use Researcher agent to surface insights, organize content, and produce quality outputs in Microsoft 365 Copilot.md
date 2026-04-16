@@ -1,9 +1,6 @@
-**Lab 2 - Use Researcher agent to surface insights, organize content,
-and produce quality outputs in Microsoft 365 Copilot**
+# **Lab 2 - Use Researcher agent to surface insights, organize content, and produce quality outputs in Microsoft 365 Copilot**
 
-**Estimated duration:** 40 minutes
-
-# **Lab objectives** 
+## **Lab objectives** 
 
 In this lab, you will learn how to use the Researcher Agent in Microsoft
 365 to gather, summarize, and analyse organization-related
@@ -14,24 +11,16 @@ completing this lab, you will be able to: 
 
 - Locate and launch the **Researcher Agent** in Microsoft 365. 
 
-&nbsp;
-
 - Use prompts to gather recent discussions, documents, and emails. 
-
-&nbsp;
 
 - Interact with follow-up questions to refine results. 
 
-&nbsp;
-
 - Generate summaries, reports, or action items related to a topic. 
-
-&nbsp;
 
 - Explore advanced prompt use cases such as progress updates, meeting
   prep, and document discovery. 
 
-# **Scenario** 
+## **Scenario** 
 
 Zava Retail, a fast-growing omnichannel retailer, was preparing for a
 large-scale Festive Collection campaign launch across online
@@ -47,8 +36,6 @@ At Zava Retail, all the critical information is scattered across various
 communication channels. The critical information includes:
 
 - Emails (vendor discussions, escalations)
-
-&nbsp;
 
 - Teams chats (campaign planning)
 
@@ -67,7 +54,7 @@ To solve this, Zava Retail adopted the **Researcher Agent in Microsoft
 into actionable business intelligence—enabling faster and more informed
 decision-making.
 
-**Key Personas**
+## **Key Personas**
 
 **Patricia Gray – Operations Head**
 
@@ -81,14 +68,15 @@ challenges include:
 
 - Needs quick insights before leadership meetings
 
-## **Exercise 1: Access the Researcher Agent **
+
+### **Estimated duration:** 40 minutes
+
+## **Exercise 1: Access the Researcher Agent**
 
 Patricia logs into Copilot to review Festive Campaign readiness.
 
 1.  Navigate to +++<https://m365copilot.com/>+++ Microsoft 365 copilot
     page. 
-
-&nbsp;
 
 2.  Enter the **User ID** in the field and then click on
     the **Next** button to proceed. 
@@ -144,7 +132,7 @@ emails related to Zava Retail Festive Campaign from the past 90 days.*
 
 *- Marketing campaign activities*
 
-*- Key risks or delays “*+++
+*- Key risks or delays*+++
 
 ![](./media/image8.png)
 
@@ -167,8 +155,6 @@ retrieve the following:
 - Aggregates insights
 
 - Builds structured summary
-
-&nbsp;
 
 - Campaign progress
 
@@ -196,7 +182,7 @@ retrieve the following:
 
 ![](./media/image17.png)
 
-## **Exercise 3: Action and Decision Intelligence **
+## Exercise 3: Action and Decision Intelligence
 
 Patricia Gray needs clear next steps and decisions. This exercise will
 help Researcher Agent perform a task or take a specific action based on
@@ -229,7 +215,7 @@ the data, findings, or situation.
 field and then click on the **Execute** button. 
 
 +++*Summarize key decisions made across emails and Teams discussions for
-the campaign.* +++
+the campaign.*+++
 
 ![](./media/image21.png)
 
@@ -348,9 +334,8 @@ further. Patricia wants to uncover hidden risks.
 1.  Under Research agent window, paste the below given prompt in the
     field and then click on the **Execute** button. 
 
-> +++*What open questions or gaps remain in the Zava Festive Campaign?*
-> +++
->
++++*What open questions or gaps remain in the Zava Festive Campaign?*+++
+
 > ![](./media/image42.png)
 
 2.  Wait for the **Researcher Agent** to gather and summarize the data
@@ -433,8 +418,6 @@ team. Patricia needs a leadership update.
 1.  Evaluate whether the Researcher Agent’s summary meets your
     expectations. 
 
-&nbsp;
-
 2.  If results are too broad or missing key details, refine your
     prompt. 
 
@@ -455,31 +438,21 @@ icon shown in the screenshot: 
 1.  **Clipboard Icon** – Likely used for **copying or
     pasting** content. 
 
-&nbsp;
-
 2.  **Thumbs-Up Icon** – Typically indicates **liking or approving** an
     item or action. 
-
-&nbsp;
 
 3.  **Thumbs-Down Icon** – Generally used to **dislike or
     disapprove** something. 
 
-&nbsp;
-
 4.  **Speaker Icon** – Represents **audio settings or volume control**. 
 
-&nbsp;
-
 5.  **Pencil Icon** – Commonly used for **editing or writing** tasks. 
-
-&nbsp;
 
 6.  **Clock with Arrow Icon** – Tooltip says **"Add to recent page"**,
     which means it adds the current item to your **recently accessed
     pages** for quick reference. 
 
-# **Lab Summary **
+# Lab Summary
 
 In this lab, you explored how the Researcher Agent in Microsoft 365
 Copilot helps transform scattered organizational data into actionable
@@ -494,5 +467,3 @@ a clear view of campaign readiness.
 As a result, Zava Retail reduced information silos, improved
 decision-making, and automated research to transform fragmented
 communication into a single source of truth.
-
- 
