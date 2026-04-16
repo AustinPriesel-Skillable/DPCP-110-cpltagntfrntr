@@ -1,7 +1,5 @@
 # Lab 1 - Design Intelligent Workflow Agent: Smart Email Triage & Productivity Insights with Copilot
 
-## **Estimated duration:** 40 minutes
-
 ## **Lab objectives** 
 
 This lab introduces the Workflows Agent in Microsoft 365 Copilot as an
@@ -115,6 +113,8 @@ Your organization’s DLP policy must allow:
 
 These are required to ensure that workflows can read emails, post to
 Teams, and summarize content.
+
+### **Estimated duration:** 40 minutes
 
 ## **Exercise 1: Access Workflows Agent**
 
