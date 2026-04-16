@@ -1,9 +1,8 @@
-**Lab 1 - Design Intelligent Workflow Agent: Smart Email Triage &
-Productivity Insights with Copilot**
+# Lab 1 - Design Intelligent Workflow Agent: Smart Email Triage & Productivity Insights with Copilot
 
-**Estimated duration:** 40 minutes
+## **Estimated duration:** 40 minutes
 
-# **Lab objectives** 
+## **Lab objectives** 
 
 This lab introduces the Workflows Agent in Microsoft 365 Copilot as an
 AI-powered orchestration engine that goes beyond traditional automation.
@@ -26,7 +25,7 @@ Triage Agent for Zava Retail that:
 
 - Uses Work IQ to provide productivity insights
 
-# **Scenario** 
+## **Scenario** 
 
 Zava Retail, a rapidly growing omnichannel retailer, faced increasing
 operational complexity due to high volumes of communication across
@@ -58,7 +57,7 @@ automate email triage, highlight urgent and actionable items, deliver
 insights to workload and productivity, and provide real-time
 productivity insights.
 
-**Key Personas**
+## **Key Personas**
 
 1.  **Marie Brown – Customer Support Manager**
 
@@ -78,7 +77,7 @@ The operations head at Zava Retail oversees the business operations
 across departments, tracks productivity and workload, and ensures
 operational efficiency.
 
-# Lab Prerequisites
+## Lab Prerequisites
 
 **Licensing & Access**
 
@@ -103,8 +102,6 @@ Your organization’s DLP policy must allow:
 - Dataverse (AI prompt)
 
 - Microsoft 365 connectors:
-
-&nbsp;
 
 - Outlook
 
@@ -177,13 +174,12 @@ Copilot to automate email triage.
 
 Paste the below prompt and click **Send**.
 
-*+++Each weekday morning, review unread emails from the last 24 hours.  
++++Each weekday morning, review unread emails from the last 24 hours.  
 Focus on:  
 - Customer complaints and escalations  
 - Supplier/vendor updates  
-- Internal approvals or urgent requests*
-
-*  
+- Internal approvals or urgent requests
+  
 Categorize emails into:*
 
 - *Urgent – Needs immediate action*
@@ -204,7 +200,7 @@ Highlight:
 - Supplier delays affecting inventory  
   
 Send the structured summary to myself on Microsoft Teams email id -
-<User1-60850421@LODSPRODMCA.onmicrosoft.com>.+++*
+<User1-60850421@LODSPRODMCA.onmicrosoft.com>.+++
 
 **\> Note:** The email id will be changed to the username you are
 currently using to execute this lab.
@@ -471,14 +467,14 @@ open Microsoft 365 Copilot.
 2\. Under **Workflows (Frontier)** agent, paste the below prompt in the
 chat and select **Save**.
 
-*+++Classify the workload into:  
++++Classify the workload into:  
 - Low  
 - Moderate  
 - High  
 Also flag the following conditions:  
 - Email overload  
 - After-hours work  
-- Urgent response pressure+++*
+- Urgent response pressure+++
 
 ![](./media/image33.png)
 
@@ -510,14 +506,13 @@ open Microsoft 365 Copilot.
 2\. Under **Workflows (Frontier)** agent, paste the below prompt in the
 chat to turn raw signals into leadership insights. Select **Save**.
 
-*+++When a new email arrives, analyze today’s email workload and
-patterns.*
-
-*Based on today’s email workload and patterns, identify:  
++++When a new email arrives, analyze today’s email workload and
+patterns.
+Based on today’s email workload and patterns, identify:  
 - Risks such as burnout or overload  
 - Inefficiencies in handling emails  
 - Missed priorities  
-Provide 3 actionable recommendations to improve productivity.+++*
+Provide 3 actionable recommendations to improve productivity.+++
 
 ![](./media/image36.png)
 
