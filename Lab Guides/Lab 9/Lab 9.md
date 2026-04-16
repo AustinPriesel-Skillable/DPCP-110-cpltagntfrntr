@@ -1,5 +1,4 @@
-**Lab 9 - Streamlining IT Support Operations with Autonomous Copilot
-Agent using Copilot Studio**
+# **Lab 9 - Streamlining IT Support Operations with Autonomous Copilot Agent using Copilot Studio**
 
 **Estimate Time: 60 mins**
 
@@ -27,7 +26,7 @@ email notifications for unresolved issues. Finally, participants will
 test the agent to validate its troubleshooting accuracy and workflow
 automation, ensuring seamless IT support operations.
 
-**Exercise 1: Getting Started with Power Apps**
+## **Exercise 1: Getting Started with Power Apps**
 
 This exercise introduces participants to Power Apps and Dataverse. The
 goal is to log in to Power Apps, set up a working environment, and
@@ -35,7 +34,7 @@ create a Dataverse table by importing data from an Excel file.
 Participants will learn essential skills for working with data-driven
 applications.
 
-**Task 1: Logging into Power Apps**
+### **Task 1: Logging into Power Apps**
 
 1.  Navigate to power apps website
     +++https://www.microsoft.com/en-us/power-platform/products/power-apps+++ and
@@ -62,7 +61,7 @@ incorrect.](./media/image3.png)
     ![A screenshot of a computer AI-generated content may be
 incorrect.](./media/image4.png)
 
-**Task 2: Update the Developer environment settings**
+### **Task 2: Update the Developer environment settings**
 
 1.  From a new tab in the browser, open Power Platform admin center -
     +++https://admin.powerplatform.microsoft.com/home+++ and sign in
@@ -134,7 +133,7 @@ incorrect.](./media/image16.png)
     ![A screenshot of a computer AI-generated content may be
 incorrect.](./media/image17.png)
 
-**Task 3: Setting Up a Dataverse Table**
+### **Task 3: Setting Up a Dataverse Table**
 
 1.  Navigate back to the **PowerApps page** and select
     the **DevOne** environment from the list of environments.
@@ -200,7 +199,7 @@ incorrect.](./media/image26.png)
 
     ![](./media/image27.png)
 
-**Task 4: Add a file to the OneDrive**
+### **Task 4: Add a file to the OneDrive**
 
 1.  From the top left of the Power Apps page, select the menu and
     select **OneDrive**.
@@ -239,7 +238,7 @@ By completing this exercise, participants will learn:
 - Practical knowledge of setting up an environment to support app
   development workflows.
 
-**Exercise 2: Creating the Contoso IT Support Agent**
+## **Exercise 2: Creating the Contoso IT Support Agent**
 
 This exercise focuses on logging into Microsoft Copilot Studio and
 creating a customized Copilot agent tailored for IT support operations
@@ -247,7 +246,7 @@ at Contoso. Participants will gain hands-on experience navigating
 Copilot Studio, configuring environments, and building an AI-powered
 agent to streamline IT workflows.
 
-**Task 1: Creating and Configuring Contoso IT Support Agent**
+### **Task 1: Creating and Configuring Contoso IT Support Agent**
 
 1.  From a new tab, login to
     +++https://copilotstudio.microsoft.com+++/ using
@@ -362,14 +361,14 @@ By completing this exercise, participants will learn:
 - Ways to enhance IT operations by automating ticket creation and
   leveraging AI for troubleshooting.
 
-**Exercise 3: Enhancing Bot Capabilities**
+## **Exercise 3: Enhancing Bot Capabilities**
 
 This exercise focuses on enhancing the capabilities of the Contoso IT
 Support Agent by adding a knowledge base and customizing bot topics for
 improved interaction. Participants will refine the bot's responses and
 ensure it effectively assists users in troubleshooting and escalation.
 
-**Task 1: Add Knowledge Base**
+### **Task 1: Add Knowledge Base**
 
 1.  On the Contoso agent overview page, scroll down and click on **+ Add
     Knowledge** button.
@@ -412,7 +411,7 @@ incorrect.](./media/image51.png)
 knowledge source has been successfully uploaded. This will generally
 take 10 to 15 30 minutes to complete.
 
-**Task 2: Customize the Fallback Topic**
+### **Task 2: Customize the Fallback Topic**
 
 1.  From the top bar option click on **Topics**, select **System** and
     then click and open **Fallback** topic.
@@ -447,7 +446,7 @@ By completing this exercise, participants will learn:
 - Techniques to update fallback responses for better handling of
   unsupported queries.
 
-**Exercise 4: Test the agent**
+## **Exercise 4: Test the agent**
 
 This exercise guides participants through testing the Contoso IT Support
 Agent to validate its functionality. Participants will check how the bot
@@ -473,7 +472,7 @@ By completing this exercise, participants will learn:
 
 - Validation of the bot’s ability to respond using its knowledge base.
 
-**Exercise 5: Automating Support Ticket Creation with Power Automate**
+## **Exercise 5: Automating Support Ticket Creation with Power Automate**
 
 This exercise demonstrates how to automate support ticket creation using
 AgentFlow and integrate it with the Contoso IT Support Agent.
@@ -630,7 +629,7 @@ By completing this exercise, participants will learn:
 - The ability to configure workflows for efficient support ticket
   management.
 
-**Exercise 6: Configuring a trigger for Automated Actions**
+## **Exercise 6: Configuring a trigger for Automated Actions**
 
 This continuation of automating support ticket creation focuses on
 setting up a trigger in the Contoso IT Support Agent. Create
@@ -746,7 +745,7 @@ incorrect.](./media/image92.png)
 
 15. **Save** the flow.
 
-**Exercise 7: Test the agent**
+## **Exercise 7: Test the agent**
 
 1.  From the Power Automate flow, **When a new channel message is
     added**, select **Test**.
