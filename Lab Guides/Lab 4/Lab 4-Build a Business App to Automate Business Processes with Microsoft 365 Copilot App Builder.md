@@ -1,6 +1,6 @@
 # Lab 4- Build an IT Asset Tracker to Automate Business Processes Using Microsoft 365 Copilot App Builder
 
-# Lab objectives 
+## Lab objectives 
 
 In this lab, you will use App Builder inside Microsoft 365 Copilot to
 create a fully functional business application — using nothing but
@@ -42,7 +42,7 @@ Builder — a conversational, no-code tool inside the M365 Copilot. It
 gives a live dashboard to manage asset assignments, track request
 statuses, and flag overdue items within the IT team.
 
-**Estimated Duration: 40 minutes**
+### Estimated Duration: 40 minutes
 
 # Exercise 1: Access App Builder and Describe Your App
 
@@ -174,7 +174,7 @@ follow-up.* +++
 
 - Status: +++Pending+++
 
-\> Notes (optional): This asset is yet to be assigned.
+\> **Notes (optional)**: This asset is yet to be assigned.
 
 ![](./media/image14.png)
 
