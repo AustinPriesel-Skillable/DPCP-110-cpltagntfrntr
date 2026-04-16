@@ -1,6 +1,6 @@
-**Lab 3-Build a Workforce Upskilling Agent with Microsoft 365 Copilot**
+# **Lab 3-Build a Workforce Upskilling Agent with Microsoft 365 Copilot**
 
-# Lab objectives 
+## Lab objectives 
 
 In this lab, you will explore how to build a Workforce Upskilling Agent
 using Microsoft 365 Copilot Agent Builder. You will learn how to
@@ -28,7 +28,7 @@ to:
 
 - Produce workforce readiness briefings for executive stakeholders
 
-# Scenario
+## Scenario
 
 You are Jordan Mercer, Chief Operating Officer of Zava Retail — a
 mid-sized retail chain specializing in consumer electronics and home
@@ -50,7 +50,7 @@ address this challenge, you will build and deploy a Workforce Upskilling
 Agent that helps identify skill gaps, personalize employee learning
 journeys, and improve workforce readiness across operations.
 
-**Key Personas**
+## **Key Personas**
 
 1.  Jordan Mercer (COO – Primary Persona): Leads digital transformation
     strategy and oversees workforce capability planning.
@@ -64,7 +64,7 @@ journeys, and improve workforce readiness across operations.
 4.  Derek Okonkwo (Operations Coordinator)- Low RMS adoption despite
     extensive legacy systems experience.
 
-**Estimated Duration:** 30 minutes
+### Estimated Duration: 30 minutes
 
 # Exercise 1: Creating the Workforce Upskilling Agent
 
@@ -89,25 +89,25 @@ and configure it inside Microsoft 365 Copilot.
 
 1.  Paste the following details to define and configure the agent:
 
-> **Agent Name**: +++Zava Retail Workforce Coach+++
->
-> **Agent description**: +++Supports workforce capability development by
-> diagnosing skill gaps, generating personalized learning plans, and
-> assisting leaders with workforce readiness decisions during digital
-> transformation+++  
->   
-> ![](./media/image4.png)
+ **Agent Name**: +++Zava Retail Workforce Coach+++
+ 
+ **Agent description**: +++Supports workforce capability development by
+  diagnosing skill gaps, generating personalized learning plans, and
+  assisting leaders with workforce readiness decisions during digital
+  transformation+++  
+    
+  ![](./media/image4.png)
 
 2.  Paste the below given prompt in the field and then click on
     the **Execute** button. 
 
-> *+++You are Zava Retail’s Workforce Coach.*
->
-> *Your purpose is to help leaders identify workforce capability gaps,
-> generate personalized learning plans, support coaching simulations,
-> and recommend interventions during digital transformation.*
->
-> *Focus on:*
+  *+++You are Zava Retail’s Workforce Coach.*
+  
+  *Your purpose is to help leaders identify workforce capability gaps,
+  generate personalized learning plans, support coaching simulations,
+  and recommend interventions during digital transformation.*
+  
+  *Focus on:*
 
 - *RMS adoption*
 
@@ -119,7 +119,7 @@ and configure it inside Microsoft 365 Copilot.
 
 - *Change adoption coaching*
 
-> *Always tailor recommendations based on:*
+  *Always tailor recommendations based on:*
 
 - *Employee role*
 
@@ -133,8 +133,8 @@ and configure it inside Microsoft 365 Copilot.
 
 ![](./media/image5.png)
 
-4.  In the Knowledge Sources, upload or connect these organizational
-    resources:
+4.  In the Knowledge Sources, upload or connect the below mentioned organizational
+    resources. Select **Upload from device** icon to upload the files.
 
 - RMS onboarding guide
 
@@ -146,7 +146,11 @@ and configure it inside Microsoft 365 Copilot.
 
 - ERP migration training documentation
 
-![](./media/image6.png)![](./media/image7.png)
+![](./media/image7.png)
+
+&nbsp;
+
+![](./media/image6.png)
 
 5.  Click **Create** and then, select **Go to Agent**.
 
@@ -162,25 +166,25 @@ Retail.
 1.  Paste the following prompt in the chat panel and click on the
     **Execute** button.
 
-> *+++I am the COO of Zava Retail, a mid-sized retail chain specializing
-> in consumer electronics and home goods, with 4 regional store clusters
-> and approximately 600 employees across store operations, supply chain,
-> customer experience, and merchandising.*  
->   
-> *We are currently migrating to a new Retail Management System (RMS)
-> and deploying AI-powered inventory forecasting and customer analytics
-> tools.*  
->   
-> *Our key upskilling priorities are:*  
-> *1. RMS system adoption*  
-> *2. AI inventory and analytics supervisory skills*  
-> *3. Supply chain risk management for mid-career analysts+++*
->
-> ![](./media/image9.png)
+  *+++I am the COO of Zava Retail, a mid-sized retail chain specializing
+  in consumer electronics and home goods, with 4 regional store clusters
+  and approximately 600 employees across store operations, supply chain,
+  customer experience, and merchandising.*  
+    
+  *We are currently migrating to a new Retail Management System (RMS)
+  and deploying AI-powered inventory forecasting and customer analytics
+  tools.*  
+    
+  *Our key upskilling priorities are:*  
+  *1. RMS system adoption*  
+  *2. AI inventory and analytics supervisory skills*  
+  *3. Supply chain risk management for mid-career analysts+++*
+  
+  ![](./media/image9.png)
 
 2.  Review the output:
 
-> ![](./media/image10.png)
+  ![](./media/image10.png)
 
 ## **Task 2: Validate Agent Understanding**
 
@@ -189,7 +193,7 @@ Retail.
     *+++What are the most critical workforce skill domains I should
     prioritize during this retail digital transformation? +++*
 
-![](./media/image11.png)
+  ![](./media/image11.png)
 
 2\. Review the output:
 
@@ -303,12 +307,12 @@ positions RMS mastery as a career growth opportunity. +++*
 1.  To test the workforce readiness and generate a briefing plan, paste
     the below prompt, and click on the **Execute** button.
 
-> *+++Generate a workforce readiness briefing for Zava Retail
-> covering:*  
-> *1. Current risk summary*  
-> *2. Intervention status*  
-> *3. What I need from Store Managers*  
-> *4. 30-day watch list+++*
+  *+++Generate a workforce readiness briefing for Zava Retail
+  covering:*  
+  *1. Current risk summary*  
+  *2. Intervention status*  
+  *3. What I need from Store Managers*  
+  *4. 30-day watch list+++*
 
 ![](./media/image25.png)
 
@@ -321,9 +325,9 @@ positions RMS mastery as a career growth opportunity. +++*
 1.  To test the workforce readiness and generate a summary for the VP,
     paste the below prompt and click on the **Execute** button.
 
-> *+++Condense this into a 5-bullet summary for my VP of HR focused only
-> on HR action items.+++*  
-> ![](./media/image27.png)
+  *+++Condense this into a 5-bullet summary for my VP of HR focused only
+  on HR action items.+++*  
+  ![](./media/image27.png)
 
 2.  Review the output:
 
