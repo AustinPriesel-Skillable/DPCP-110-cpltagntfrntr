@@ -280,7 +280,7 @@ Manager”+++ 
     ![A screenshot of a computer AI-generated content may be
 incorrect.](./media/image36.png)
 
-12. You will then receive the requested list
+Lab 8-Extend Microsoft 365 Copilot Chat with a Declarative HR agent using Copilot Studio and SharePoint12. You will then receive the requested list
 
     ![](./media/image37.png)
 
