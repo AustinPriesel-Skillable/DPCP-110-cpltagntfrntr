@@ -76,7 +76,7 @@ challenges include:
 Patricia logs into Copilot to review Festive Campaign readiness.
 
 1.  Navigate to +++<https://m365copilot.com/>+++ to open Microsoft 365 copilot
-    page. 
+    page. Sign in with your credentials.
 
 2.  Enter the **User ID** in the field and then click on
     the **Next** button to proceed. 
