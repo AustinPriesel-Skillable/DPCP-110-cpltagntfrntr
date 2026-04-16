@@ -78,8 +78,7 @@ For both the above questions, you will get an answer from the agent
 which will be a generic one since the agent will be using its general
 knowledge.
 
-## **Exercise 2: Create a Prompt action for a Topic for generative
-answers**
+## **Exercise 2: Create a Prompt action for a Topic for generative answers**
 
 Use **prompt** in **Copilot Studio** to natural language actions as
 copilot extensions. These actions use the generative AI models from AI
