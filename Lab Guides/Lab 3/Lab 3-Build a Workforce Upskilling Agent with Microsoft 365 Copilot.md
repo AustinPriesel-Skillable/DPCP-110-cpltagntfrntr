@@ -1,4 +1,4 @@
-# **Lab 3-Build a Workforce Upskilling Agent with Microsoft 365 Copilot**
+# **Build a Workforce Upskilling Agent with Microsoft 365 Copilot**
 
 ## Lab objectives 
 
