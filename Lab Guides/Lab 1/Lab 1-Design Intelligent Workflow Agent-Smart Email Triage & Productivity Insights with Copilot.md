@@ -1,4 +1,4 @@
-# Lab 1 - Design Intelligent Workflow Agent: Smart Email Triage & Productivity Insights with Copilot
+# Design Intelligent Workflow Agent: Smart Email Triage & Productivity Insights with Copilot
 
 ## **Lab objectives** 
 
