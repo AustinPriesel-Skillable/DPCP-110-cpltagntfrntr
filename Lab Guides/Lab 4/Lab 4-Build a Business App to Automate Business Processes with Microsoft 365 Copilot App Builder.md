@@ -1,4 +1,4 @@
-# Lab 4- Build an IT Asset Tracker to Automate Business Processes Using Microsoft 365 Copilot App Builder
+# Build an IT Asset Tracker to Automate Business Processes Using Microsoft 365 Copilot App Builder
 
 ## Lab objectives 
 
