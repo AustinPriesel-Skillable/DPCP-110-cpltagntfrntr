@@ -1,7 +1,6 @@
-**Lab 6 – Build the Project Knowledge Assistant Copilot Agent with
-Microsoft IQ for trusted customer success**
+# **Build the Project Knowledge Assistant Copilot Agent with Microsoft IQ for trusted customer success**
 
-# Lab objectives 
+## Lab objectives 
 
 This lab provides hands-on experience in building intelligent Copilot
 Agents using Microsoft IQ principles. You will create a
@@ -12,7 +11,7 @@ customization using Copilot Studio, including custom instructions, topic
 routing, and multi-agent orchestration by connecting with a second
 specialized agent.
 
-# Scenario
+## Scenario
 
 Store associates and shift managers often lose valuable time searching
 through SOPs, policy documents, and operational guidelines during busy
@@ -23,7 +22,7 @@ the flow of work—helping them resolve customer queries faster, ensure
 policy compliance, and keep store operations running smoothly during
 peak demand.
 
-**Estimated Duration: 40 minutes**
+### **Estimated Duration: 40 minutes**
 
 # Exercise 1: Creating and Configuring Your Copilot Agent 
 
@@ -62,9 +61,7 @@ intelligent and trustworthy.
 
 7.  Download the following links and **upload** them in your SharePoint
     site:
-
-- +++
-
++++
 - [Product Specs
   Folder](https://lodsprodmca.sharepoint.com/:f:/s/ZavaSite83/IgCF8RfI1YXJRK5_zYXMnJL_AXpjiHEH91UGboTyVEWfdLA?e=ijxOMV)[Project
   Updates](https://lodsprodmca.sharepoint.com/:f:/s/ZavaSite83/IgCavB9UN-_wTJscjUpbM__3AeJOQ33VPqEcEMGt8vBAzy8?e=Kzj8mb)
@@ -134,7 +131,7 @@ agents should only surface verified, relevant information.
 2.  In the chat field, paste the following prompt and select **Execute
     button**.
 
-*+++*"*Summarize the project plan” +++*  
+*+++Summarize the project plan+++*  
   
 ![](./media/image14.png)
 
@@ -210,14 +207,14 @@ agent's domain.
 
 4.  In the Trigger section, paste the following phrases as trigger
     phrases (one per line):
-
-- *+++I need help with something else*
++++
+- *I need help with something else*
 
 - *Can you help me with HR?*
 
 - *This is not related to my work*
 
-- *I have a different question+++*
+- *I have a different question*+++
 
 > ![](./media/image26.png)
 
