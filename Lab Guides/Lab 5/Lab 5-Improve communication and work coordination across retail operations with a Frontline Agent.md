@@ -1,7 +1,6 @@
-**Lab 5 - Improve communication and work coordination across retail
-operations with a Frontline Agent**
+# **Improve communication and work coordination across retail operations with a Frontline Agent**
 
-# **Lab objectives** 
+## **Lab objectives** 
 
 In this lab, you will create a Frontline Operations Agent using
 Microsoft 365 Copilot Agent Builder. The agent will help frontline
@@ -23,7 +22,7 @@ completing this lab, you will be able to: 
 
 - Build reusable retail frontline agent templates
 
-# **Scenario** 
+## **Scenario** 
 
 Zava Retail is a rapidly expanding multi-format retail chain operating:
 
@@ -111,7 +110,7 @@ include:
 
 - Must balance staffing, sales, and service quality
 
-**Estimated Duration: 40 minutes**
+### **Estimated Duration: 40 minutes**
 
 ## **Exercise 1: Create the Frontline Agent **
 
@@ -119,8 +118,6 @@ Patricia logs into Copilot to review Festive Campaign readiness.
 
 1.  Navigate to +++<https://m365copilot.com/>+++ to open Microsoft 365
     copilot page. 
-
-&nbsp;
 
 2.  Enter the **User ID** in the field and then click on
     the **Next** button to proceed. 
@@ -270,8 +267,6 @@ retrieve the following:
 - Aggregates insights
 
 - Builds structured summary
-
-&nbsp;
 
 - Campaign progress
 
@@ -476,9 +471,9 @@ icon shown in the screenshot: 
     which means it adds the current item to your **recently accessed
     pages** for quick reference. 
 
-# **Lab Summary **
+# Lab Summary
 
-In this lab, learners explored how **Zava Retail** can improve store
+In this lab, learners explored how Zava Retail can improve store
 operations using a **Microsoft 365 Copilot Frontline Operations Agent**.
 With 250 stores, 8,000 employees, and high seasonal demand, Zava Retail
 needed a scalable solution to reduce manager workload, improve
