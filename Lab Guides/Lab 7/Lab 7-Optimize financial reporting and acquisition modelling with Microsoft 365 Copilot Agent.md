@@ -1,7 +1,6 @@
-**Lab 7 - Optimize financial reporting and acquisition modeling with
-Microsoft 365 Copilot Finance Agent**
+# **Optimize financial reporting and acquisition modeling with Microsoft 365 Copilot Finance Agent**
 
-# Lab objectives 
+## Lab objectives 
 
 In this lab, you explore how Microsoft 365 Copilot enhances the daily
 workflow of finance professionals by embedding AI assistance directly
@@ -10,7 +9,7 @@ accelerates data interpretation, improves collaboration, transforms
 meeting content into actionable tasks, and helps produce strategic
 reports that support faster, better-informed business decisions.
 
-# Scenario
+## Scenario
 
 Acting as a Financial Analyst at Zava Retail, you use Copilot to analyze
 product cost data, summarize, and organize finance meeting outcomes,
@@ -44,7 +43,7 @@ decision-ready insights for leadership.
   outputs to guide strategic decisions on product launch and acquisition
   planning.
 
-**Estimated Duration: 40 minutes**
+### **Estimated Duration: 40 minutes**
 
 # Exercise 1: Use Copilot in Excel to Analyze New Product Line COGS
 
@@ -131,7 +130,7 @@ generate a detailed task list for each participant based on the action
 items in the notes.
 
 1.  To generate a task list, paste the below prompt in the description
-    box and select **the Execute** icon.  
+    box and select the **Execute** icon.  
     *+++Based on the action items and next steps in the meeting summary,
     create a detailed task list for each participant. Assign
     responsibilities clearly and include suggested deadlines or priority
