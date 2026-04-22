@@ -57,62 +57,61 @@ sample documents there which will be used later in this lab.
 
     - Username - +++@lab.CloudPortalCredential(User1).Username+++
 
-    - Temporary Access Password
-      - +++@lab.CloudPortalCredential(User1).TAP+++
+    - Temporary Access Password: +++@lab.CloudPortalCredential(User1).AccessToken+++
 
 2.  Select **Apps** from the left pane and then
     select **SharePoint** once the Apps are loaded.
 
-    ![](./media/image1.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%208/media/image1.png)
 
 3.  Select **+ Create site** from the SharePoint page.
 
     ![A screenshot of a browser AI-generated content may be
-incorrect.](./media/image2.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%208/media/image2.png)
 
 4.  Select **Communication site** from the **Select the site
     type** page.
 
     ![A screenshot of a web page AI-generated content may be
-incorrect.](./media/image3.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%208/media/image3.png)
 
 5.  Select a **template** to be used.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image4.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%208/media/image4.png)
 
 6.  Select **Use template**.
 
     ![A screenshot of a website AI-generated content may be
-incorrect.](./media/image5.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%208/media/image5.png)
 
 7.  Enter +++Contoso site2-@lab.LabInstance.Id+++ as the **Site
     name** and select **Next.**
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image6.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%208/media/image6.png)
 
 8.  In the next screen, select **Create site**.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image7.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%208/media/image7.png)
 
 9.  Once created, note down the **url** of this site.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image8.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%208/media/image8.png)
 
 10. Select **Documents** from the menu bar. Select **+ Create or
     upload** -\> **Files upload**
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image9.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%208/media/image9.png)
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image10.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%208/media/image10.png)
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image11.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%208/media/image11.png)
 
 11. Select **Sample-list-of-candidates.xlsx** file
     from **C:\LabFiles\Labfiles** to be uploaded. Once **uploaded**,
@@ -121,34 +120,32 @@ incorrect.](./media/image11.png)
     and save the link in a **notepad**.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image12.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%208/media/image12.png)
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image13.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%208/media/image13.png)
 
 **Exercise 2 : Creating an agent for Microsoft 365 Copilot Chat**
 
 In this exercise you are going to create a declarative agent with
 Microsoft Copilot Studio and host it in Microsoft 365 Copilot Chat.
 
-1.  Login to
-    +++https://copilotstudio.microsoft.com+++ using the login credentials below. (They are present in the **Resources** tab as well).
+1.  Login to +++https://copilotstudio.microsoft.com+++ using the login credentials below. (They are present in the **Resources** tab as well).
 
     - Username - +++@lab.CloudPortalCredential(User1).Username+++
 
-    - Temporary Access Password
-      - +++@lab.CloudPortalCredential(User1).TAP+++
+    - Temporary Access Password: +++@lab.CloudPortalCredential(User1).AccessToken+++
 
 2.  Select **Get Started** in the **Welcome to Microsoft Copilot
     Studio** screen.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image14.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%208/media/image14.png)
 
 3.  Select **Skip** in the Welcome sreen.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image15.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%208/media/image15.png)
 
 4.  To create a declarative agent for Microsoft 365 Copilot Chat you
     need to first browse the list of agents in Copilot Studio and then
@@ -156,36 +153,36 @@ incorrect.](./media/image15.png)
     it** in the version update pop up.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image16.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%208/media/image16.png)
 
 5.  Select **Agents** from the left navigation bar.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image17.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%208/media/image17.png)
 
 6.  Now, select **Copilot for** **Microsoft 365** from the list.
 
-    ![](./media/image18.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%208/media/image18.png)
 
 7.  A new section of Microsoft Copilot Studio will open. From there,
     select the **+ Add** command to create a new agent for Microsoft 365
     Copilot Chat.
 
-    ![](./media/image19.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%208/media/image19.png)
 
 8.  Enter the below details and select **Create**.
 
     - Name - +++Agentic HR+++
 
-    - Description - +++You are an agent helping employees to find
+    - Description - `You are an agent helping employees to find
       information about HR policies and procedures, about how to improve
-      their career, and about how to define learning pathways.+++
+      their career, and about how to define learning pathways.`
 
-    - Instruction - +++Emphasize everything that helps team building,
-      inclusion, and the growth mindset. Have a professional tone.+++
+    - Instruction - `Emphasize everything that helps team building,
+      inclusion, and the growth mindset. Have a professional tone.`
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image20.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%208/media/image20.png)
 
 **Exercise 3: Adding knowledge to the agent**
 
@@ -195,96 +192,95 @@ to the agent that you created.
 1.  Select **+ Add knowledge** under the Knowledge section.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image21.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%208/media/image21.png)
 
 2.  Select **SharePoint**, enter the **url** of the tracker uploaded in
     the earlier exercise and then select **Add**.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image22.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%208/media/image22.png)
 
 3.  Select **Add to agent** in the next screen.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image23.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%208/media/image23.png)
 
 4.  Select **Publish** to publish the agent.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image24.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%208/media/image24.png)
 
 5.  Select **Publish** again.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image25.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%208/media/image25.png)
 
 6.  Select **Copy** under **Share link** to copy the link and then
     select **Done**.
 
-    ![](./media/image26.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%208/media/image26.png)
 
 7.  Open a new tab and paste the copied url. Select **Add** to add
     the **Agentic HR** to your list agents.
 
-    ![](./media/image27.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%208/media/image27.png)
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image28.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%208/media/image28.png)
 
 8.  Select **Skip** in the introduction screen.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image29.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%208/media/image29.png)
 
 9.  The **Agentic HR** agent is now added. Select **Agentic HR** from
     the left navigation pane.
 
 11. In the **Agentic HR agent** screen, send the below message.
 
-    +++Show me a list of candidates for HR with role "HR Director” or "HR Manager”+++
+    `Show me a list of candidates for HR with role "HR Director” or "HR Manager”`
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image30.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%208/media/image30.png)
 
-    [!Alert] **Important:** If you are asked for approval, perform the
-below steps. Else you can ignore these and check for the result as in
-the last step in this lab guide.
-
+    >[!Alert] If you are asked for approval, perform the
+    below steps. Else you can ignore these and check for the result as in
+    the last step in this lab guide.
+    
     In the Data to be shared with Agentic HR message, select **Allow
 once** (if prompted) option. 
 
     ![A screenshot of a computer AI-generated
-content may be incorrect.](./media/image31.png)
+content may be incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%208/media/image31.png)
 
     If it asks you to **sign in**, select the **Sign in to Agentic
 HR** option and then select **Connect** in the next screen. 
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image32.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%208/media/image32.png)
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image33.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%208/media/image33.png)
 
     Select **Submit** once connected. ![A screenshot of a computer
-AI-generated content may be incorrect.](./media/image34.png)
+AI-generated content may be incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%208/media/image34.png)
 
     ![A screenshot of a chat AI-generated content may be
-incorrect.](./media/image35.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%208/media/image35.png)
 
     Now, resend the below message to the agent.
 
-    +++Show me a list of candidates for HR with role “HR Director” or ”HR
-Manager”+++ 
+    `Show me a list of candidates for HR with role “HR Director” or ”HR Manager”`
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image36.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%208/media/image36.png)
 
 12. You will then receive the requested list
 
-    ![](./media/image37.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%208/media/image37.png)
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image38.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%208/media/image38.png)
 
 **Summary**
 
