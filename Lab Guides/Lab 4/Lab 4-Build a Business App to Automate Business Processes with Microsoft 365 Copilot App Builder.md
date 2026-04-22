@@ -53,17 +53,21 @@ first version will be.
 
 ## Task 1: Access App Builder
 
-1.  In your browser, navigate to +++<https://m365.cloud.microsoft/>+++
-    Sign in with your credentials.![](./media/image1.png)
+1.  In your browser, navigate to +++https://m365.cloud.microsoft/+++
+    Sign in with your credentials.
+    
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image1.png)
 
-2.  On the left-hand navigation pane, click **All Agents\>App Builder
-    (Frontier)**.  
-    ![](./media/image2.png)
+3.  On the left-hand navigation pane, click **All Agents\>App Builder
+    (Frontier)**.
+    
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image2.png)
 
-3.  Select **Add** to add this agent to your environment.  
-    ![](./media/image3.png)
+5.  Select **Add** to add this agent to your environment.
+6.  
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image3.png)
 
-4.  The App Builder interface will open with a conversational input
+7.  The App Builder interface will open with a conversational input
     field — this is where you describe your app.
 
 ## Task 2: Describe Your App in Natural Language
@@ -71,28 +75,30 @@ first version will be.
 1.  In the App Builder input field, paste the following prompt and click
     on **Execute** button.
 
-+++*Build me an IT asset tracking app for Zava Retail. The app should
-let the IT team log equipment assigned to store managers and head office
-employees — including laptops, tablets, POS peripherals, and
-accessories. It should track each item's status as Assigned, Pending
-Collection, or Returned. I need a dashboard that shows total assets, how
-many are currently assigned, how many are pending, and overall
-completion rate. I also need a way to view all employees, manage tasks
-related to asset setup, and a section for IT resources and policies.*
-+++  
-![](./media/image4.png)
+    ```
+    Build me an IT asset tracking app for Zava Retail. The app should
+    let the IT team log equipment assigned to store managers and head office
+    employees — including laptops, tablets, POS peripherals, and
+    accessories. It should track each item's status as Assigned, Pending
+    Collection, or Returned. I need a dashboard that shows total assets, how
+    many are currently assigned, how many are pending, and overall
+    completion rate. I also need a way to view all employees, manage tasks
+    related to asset setup, and a section for IT resources and policies.*
+    ```
+
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image4.png)
 
 2.  Once generation is complete, a live preview of your app will appear
     on the right side of the screen — with a navigation panel showing
     sections such as Dashboard, Employees, Tasks, Resources, and
     potential Feedback.
 
-![](./media/image5.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image5.png)
 
 3.  On the left side, Copilot will summarize what it built and may
     suggest enhancements. Read through its summary before proceeding.
 
-![](./media/image6.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image6.png)
 
 # Exercise 2: Refine the App Through Conversation
 
@@ -105,37 +111,42 @@ related to asset setup, and a section for IT resources and policies.*
 2.  In the App Builder conversation input on the left, paste the below
     prompt and click on the **Execute** button.
 
-+++Add a section to the dashboard that highlights overdue asset requests
-— items that have been in Pending Collection status for more than 7
-days. Show the employee's name, asset type, and how many days are
-overdue. +++  
-![](./media/image7.png)
+    ```
+    Add a section to the dashboard that highlights overdue asset requests
+    — items that have been in Pending Collection status for more than 7
+    days. Show the employee's name, asset type, and how many days are
+    overdue.
+    ```
+
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image7.png)
 
 3.  Confirm the dashboard now includes an overdue section with the
     fields you specified.  
-    ![](./media/image8.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image8.png)
 
 ## Task 2: Add Task Priority Indicators
 
 1.  In the conversation input, paste the following prompt and click on
     **Execute** button.
 
-+++*In the Tasks section, add priority indicators — High, Medium, and
-Low — for each task. Also add a Due This Week view that filters to show
-only tasks due within the next 7 days*+++
+    ```
+    In the Tasks section, add priority indicators — High, Medium, and
+    Low — for each task. Also add a Due This Week view that filters to show
+    only tasks due within the next 7 days*
+    ```
 
-![](./media/image9.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image9.png)
 
 2.  Once the response is generated, review the updated Tasks section in
     the preview.
 
 3.  Click into the **Tasks** section and confirm:
 
-- Priority labels are visible on each task
+    - Priority labels are visible on each task
+    
+    - A Due This Week filter or view is available
 
-- A Due This Week filter or view is available
-
-> ![](./media/image10.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image10.png)
 
 ## Task 3: Enhance the Employee Section
 
@@ -146,58 +157,64 @@ complete.
 1.  In the conversation input, paste the following prompt and click on
     **Execute** button.
 
-+++*In the Employees section, add a column showing each employee's asset
-setup status — either Complete or In Progress. Also add a filter so the
-IT team can view only employees with In Progress status who may need
-follow-up.* +++
+    ```
+    In the Employees section, add a column showing each employee's asset
+    setup status — either Complete or In Progress. Also add a filter so the
+    IT team can view only employees with In Progress status who may need
+    follow-up.* 
+    ```
 
-![](./media/image11.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image11.png)
 
 2.  Review the updated Employees section.  
-    ![](./media/image12.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image12.png)
 
 # Exercise 4: Test the App as a Real IT Team Member Would
 
 ## Task 1: Log a New Asset Assignment
 
-1.  In the app preview, navigate to the Asset section.  
-    ![](./media/image13.png)
+1.  In the app preview, navigate to the Asset section.
+2.  
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image13.png)
 
-2.  To add a new asset record, paste the following details in respective
+3.  To add a new asset record, paste the following details in respective
     fields.
 
-- Model: +++Macbook Air+++
+    - Model: +++Macbook Air+++
+    
+    - Serial Number: +++AB568J+++
+    
+    - Type: +++Laptop+++
+    
+    - Status: +++Pending+++
+    
+    >[!Note] This asset is yet to be assigned.
 
-- Serial Number: +++AB568J+++
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image14.png)
 
-- Type: +++Laptop+++
-
-- Status: +++Pending+++
-
-\> **Notes (optional)**: This asset is yet to be assigned.
-
-![](./media/image14.png)
-
-3.  Save the record.  
-    ![](./media/image15.png)
+3.  Save the record.
+   
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image15.png)
 
 ## Task 2: Complete a Task and Check Progress
 
-1.  Navigate to the Tasks section.  
-    ![](./media/image16.png)
+1.  Navigate to the Tasks section.
+   
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image16.png)
 
-2.  Find a task related to Laptop-Refresh Manchester Store. Select
+3.  Find a task related to Laptop-Refresh Manchester Store. Select
     **Complete** and then, click on **Save Changes** to mark it as
-    completed.  
-    ![](./media/image17.png)
+    completed.
+    
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image17.png)
 
-3.  Return to the Dashboard and confirm the Task Completion Progress
+4.  Return to the Dashboard and confirm the Task Completion Progress
     metric updates to reflect the completed task.  
-    ![](./media/image18.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image18.png)
 
-4.  Review that the overall completion percentage changes accordingly.
+5.  Review that the overall completion percentage changes accordingly.
 
-![](./media/image19.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image19.png)
 
 ## Exercise 5: Publish the App and Share It with Your Team
 
@@ -206,45 +223,52 @@ follow-up.* +++
 1.  In App Builder, click the **Publish** button in the top-right corner
     of the screen.
 
-2.  Click **Publish**.![](./media/image20.png)
+2.  Click **Publish**.
 
-3.  Once published, App Builder will generate a direct link to your app.
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image20.png)
+
+6.  Once published, App Builder will generate a direct link to your app.
     Copy this link.  
-    ![](./media/image21.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image21.png)
 
-> \> **Note:** Save the link in your notes. It will be used in the
-> upcoming task.
+    >[!Note] Save the link in your notes. It will be used in the upcoming task.
 
 ## Task 2: Validate the Published App
 
 1.  Open a new browser tab and paste the direct link you have copied in
     Task 1 of the same exercise.  
-    ![](./media/image22.png)
 
-2.  Review that the app loads correctly with:
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image22.png)
 
-- The correct app name and dashboard visible
+3.  Review that the app loads correctly with:
 
-- Navigation sections (Employees, Tasks, Resources) accessible
+    - The correct app name and dashboard visible
+    
+    - Navigation sections (Employees, Tasks, Resources) accessible
+    
+    - The overdue items section present on the dashboard
 
-- The overdue items section present on the dashboard
-
-![](./media/image23.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image23.png)
 
 ## Task 3: Share and Brief Your Team
 
 1.  Return to App Builder. In the conversation input, paste the
     following prompt and click on **Execute** button.
 
-+++*Draft a brief message I can send to the Zava Retail IT team
-explaining what this app does, how to log a new asset assignment, and
-how to check overdue items.* +++  
-![](./media/image24.png)
+    ```
+    Draft a brief message I can send to the Zava Retail IT team
+    explaining what this app does, how to log a new asset assignment, and
+    how to check overdue items.*
+    ```
+    
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image24.png)
 
 2.  Copilot will generate a ready-to-send team briefing. Review the
-    briefing and note any required edits.![](./media/image25.png)
+    briefing and note any required edits.
 
-3.  Copy the briefing and the direct app link — these are what you would
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image25.png)
+
+4.  Copy the briefing and the direct app link — these are what you would
     share with the IT team in a real deployment.
 
 # Lab Summary
