@@ -23,56 +23,56 @@ Estimated duration - 40 minutes
 
     - Username - +++@lab.CloudPortalCredential(User1).Username+++
 
-    - TAP - +++@lab.CloudPortalCredential(User1).TAP+++
+    - TAP - +++@lab.CloudPortalCredential(User1).AccessToken+++
 
 2.  From the **Home page**, in the text area - Start building by
-    describing what your agent needs to do, enter +++I want you to be a
+    describing what your agent needs to do, enter `I want you to be a
     question and answering assistant that can answer common questions
-    from users using the content of a website+++ and click on **Send**.
+    from users using the content of a website` and click on **Send**.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image1.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%2010/media/image1.png)
 
 3.  The agent gets created as per the requirements
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image2.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%2010/media/image2.png)
 
 4.  Scroll down and select **+ Add knowledge** under the Knowledge
     section.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image3.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%2010/media/image3.png)
 
 5.  Select the **Public websites** option.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image4.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%2010/media/image4.png)
 
-6.  Enter +++[www.microsoft.com+++](http://www.microsoft.com+++/) and
+6.  Enter +++http://www.microsoft.com+++/ and
     select **Add**.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image5.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%2010/media/image5.png)
 
 7.  Select Add to agent.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image6.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%2010/media/image6.png)
 
 8.  The website is added as a knowledge source to the agent.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image7.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%2010/media/image7.png)
 
-9.  Click on **Test** icon to Test the agent. Enter +++What is Copilot
-    Studio?+++ and hit **Enter**.
+9.  Click on **Test** icon to Test the agent. Enter `What is Copilot
+    Studio?` and hit **Enter**.
 
-    ![](./media/image8.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%2010/media/image8.png)
 
 10. Enter +++What is the latest xbox model?+++
 
-    ![](./media/image9.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%2010/media/image9.png)
 
 For both the above questions, you will get an answer from the agent
 which will be a generic one since the agent will be using its general
@@ -93,7 +93,7 @@ topic node
     topic** and select **From blank**.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image10.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%2010/media/image10.png)
 
 2.  Enter the name for the Topic as +++Generate questions for a quiz+++.
     Enter the below details in
@@ -117,12 +117,12 @@ incorrect.](./media/image10.png)
 
     Select **Save** on the top right to save the topic.
 
-    ![](./media/image11.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%2010/media/image11.png)
 
 3.  Click on the **+** symbol below the Trigger node. Select the **Add a
     tool** option and select **New prompt** option under that.
 
-    ![](./media/image12.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%2010/media/image12.png)
 
 4.  The Prompt dialog will appear, and you may see a flyout appear that
     will guide you on how to create your prompt. Select **Next** to go
@@ -133,72 +133,74 @@ incorrect.](./media/image10.png)
 
 6.  Paste the below content in the Prompt field.
 
-    +++Generate a quiz with [number] questions to cover this [topic].
-Decide on the format, such as multiple-choice questions or true/false
-statements. Use this [format]. Designate the correct answer within
-parentheses.+++
+    ```
+    Generate a quiz with [number] questions to cover this [topic].
+    Decide on the format, such as multiple-choice questions or true/false
+    statements. Use this [format]. Designate the correct answer within
+    parentheses.
+    ```
 
     Select [number], expand **+ Add context** section and select **Text**.
 
-    ![](./media/image13.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%2010/media/image13.png)
 
 7.  Enter the name as +++number+++ and enter sample data such as
     +++5+++. Select **Close**.
 
-    ![](./media/image14.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%2010/media/image14.png)
 
 8.  Select **[topic]**, expand **+ Add context** section and
     select **Text**. Enter the name as +++topic+++ and enter sample data
     such as +++Science+++.
 
-    ![](./media/image15.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%2010/media/image15.png)
 
 9.  Select **[format]**, expand **+ Add context** section and
     select **Text**.Enter the name as +++format+++ and enter sample data
     such as +++bullet points+++. Select **Save** in the Prompt window
 
-    ![](./media/image16.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%2010/media/image16.png)
 
 10. The prompt action node will now appear in the authoring canvas of
     the Topic. Next, the values of the input parameter need to be
     defined in order for the agent to populate them. Select
     the **...** icon
 
-    ![](./media/image17.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%2010/media/image17.png)
 
 11. Select the **System** tab and select the **Acivity.Text** as the
     input value for the action to use the user’s entire response and
     identify the format value.
 
-    ![](./media/image18.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%2010/media/image18.png)
 
 12. Repeat the same for the remaining input parameters of the prompt
     action.
 
-    ![](./media/image19.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%2010/media/image19.png)
 
 13. Next, we need to define the output variable of the prompt action.
     This is so that the response can be referenced downstream in the
     topic. Select the **\>** icon and in the **Custom** tab,
     select **Create new** and name the variable as
-    +++**VarQuizQuestionsResponse**+++.
+    +++VarQuizQuestionsResponse+++.
 
-    ![](./media/image20.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%2010/media/image20.png)
 
-    ![](./media/image21.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%2010/media/image21.png)
 
-    ![](./media/image22.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%2010/media/image22.png)
 
 14. Below the Prompt action, select the **+** icon to add a new node and
     select **Send a message**. Select the **{x}** variable icon.
 
-    ![](./media/image23.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%2010/media/image23.png)
 
 15. Select the variable **VarQuizQuestionsResponse.text**. This will add
     the text property of the prompt action response to the send a
     message node. Select **Save** to save your topic.
 
-    ![](./media/image24.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%2010/media/image24.png)
 
 16. The Topic details need to be updated next which will be used by your
     agent to associate the topic with the user's intent when Generative
@@ -206,23 +208,22 @@ parentheses.+++
 
     - Display name - +++generate questions for a quiz+++
 
-    - Description - +++This topic creates questions for a quiz based on
+    - Description - ```This topic creates questions for a quiz based on
       the number of questions, the topic and format provided by the
-      user+++
+      user```
 
     Select **Save** to save your topic.
 
-    ![](./media/image25.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%2010/media/image25.png)
 
 17. Now we are ready to test the agent. Open the Test pane, and enter
     the following question and observe the output.
 
-    +++Create 5 questions for a quiz based on geography and format the quiz
-as multi choice+++
+    `Create 5 questions for a quiz based on geography and format the quiz as multi choice`
 
-    ![](./media/image26.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%2010/media/image26.png)
 
-    ![](./media/image27.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%2010/media/image27.png)
 
 **Summary**
 
