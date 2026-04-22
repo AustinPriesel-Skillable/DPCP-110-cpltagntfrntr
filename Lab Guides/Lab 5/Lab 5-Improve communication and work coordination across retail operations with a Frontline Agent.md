@@ -116,89 +116,86 @@ include:
 
 Patricia logs into Copilot to review Festive Campaign readiness.
 
-1.  Navigate to +++<https://m365copilot.com/>+++ to open Microsoft 365
+1.  Navigate to +++https://m365copilot.com/+++ to open Microsoft 365
     copilot page. 
 
 2.  Enter the **User ID** in the field and then click on
     the **Next** button to proceed. 
 
- ![](./media/image1.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image1.png)
 
 3.  Enter **Password** in the field and then click on the **Sign
     in** button and click on the **Yes** to stay Signed in. 
 
-![](./media/image2.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image2.png)
 
 4.  Explore the Copilot chat environment.
 
-![](./media/image3.png) 
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image3.png) 
 
 5.  In the left **navigation pane**, look for **All Agents**.
 
-![](./media/image4.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image4.png)
 
  
 
 6.  Select **Create** to start building a new agent.
 
-![](./media/image5.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image5.png)
 
 7.  When the **Agent creation panel** opens, paste the following details
     in respective fields to build the agent.
 
 - **Name:** +++Frontline Operations Assistant+++
 
-- **Description:** +++Supports store staff, field workers, frontline
-  teams with schedules, SOPs, customer help, daily operations.+++
+- **Description:** Supports store staff, field workers, frontline
+  teams with schedules, SOPs, customer help, daily operations.
 
-- **Instructions:** +++You are a frontline operations assistant for
-  employees.  
-  Help workers with shift guidance, store procedures, customer service
+- **Instructions:** You are a frontline operations assistant for
+  employees. Help workers with shift guidance, store procedures, customer service
   responses, escalation steps, daily checklists, safety reminders, and
-  quick answers.  
-  Keep responses concise and mobile-friendly.+++
+  quick answers. Keep responses concise and mobile-friendly.
 
-![](./media/image6.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image6.png)
 
 8.  Navigate to **Knowledge** section to add knowledge sources. Select
     **Upload from device**.
 
-![](./media/image7.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image7.png)
 
 9.  Select the below files from the Lab files and select **Open**.
 
-- SOP PDFs
+    - SOP PDFs
+    
+    - Employee handbook
+    
+    - Store checklist
+    
+    - FAQ docs
+    
+    - Policy docs
+    
+    - Shift guides
 
-- Employee handbook
-
-- Store checklist
-
-- FAQ docs
-
-- Policy docs
-
-- Shift guides
-
-![](./media/image8.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image8.png)
 
 10. Verify that all the selected files are uploaded in the Knowledge
     sources.
 
-![](./media/image9.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image9.png)
 
 11. Click **Create** to publish the agent.
 
-> \> **Note:** Wait for 5-10 minutes for the agent building process
-> completion.
+    >[!Note] Wait for 5-10 minutes for the agent building process completion.
 
-![](./media/image10.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image10.png)
 
-![](./media/image11.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image11.png)
 
 12. Once the agent is created successfully, click **Go to agent** to
     start using the agent.
 
- ![](./media/image12.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image12.png)
 
 ## **Exercise 2: Access Frontline Operations Agent in Microsoft Teams**
 
@@ -209,90 +206,92 @@ of Zava Retail on Microsoft Teams for better visibility.
 1.  Navigate to Microsoft Teams +++https://teams.cloud.microsoft.com+++
     and sign in with your credentials.
 
-![](./media/image1.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image1.png)
 
-![](./media/image2.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image2.png)
 
 2.  Open Microsoft Teams. Select **Copilot** icon from the left
     navigation pane.
 
-![](./media/image13.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image13.png)
 
 3.  Go to **Expand Navigation** icon to open the menu. Select
     **Frontline Operations Agent** to open and access the agent.
 
-![](./media/image14.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image14.png)
 
 4.  Now, Patricia can use the agent directly inside Teams. **Frontline
     Operations Agent** can be accessed under Microsoft Teams.
 
-![](./media/image15.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image15.png)
 
 1.  Go to the Researcher agent, paste the following prompt in the prompt
     field, and then click on the **Execute** button. 
 
-+++*Help me gather and summarize all recent discussions, documents, and
-emails related to Zava Retail Festive Campaign from the past 90 days.*
+    
+    Help me gather and summarize all recent discussions, documents, and
+    emails related to Zava Retail Festive Campaign from the past 90 days.*
+    
+    *Include:*
+    
+    *- Campaign planning progress*
+    
+    *- Vendor onboarding updates*
+    
+    *- Inventory readiness*
+    
+    *- Marketing campaign activities*
+    
+    *- Key risks or delays “*
+    
 
-*Include:*
-
-*- Campaign planning progress*
-
-*- Vendor onboarding updates*
-
-*- Inventory readiness*
-
-*- Marketing campaign activities*
-
-*- Key risks or delays “*+++
-
-![](./media/image16.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image16.png)
 
 2.  Wait for the **Researcher Agent** to gather and summarize the data
     review the Researcher agent carefully. The Researcher Agent may ask
     clarifying questions. Select the report length as “Short” and select
     “Go ahead with your best judgement” and select **Execute** button.
 
-![](./media/image17.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image17.png)
 
-\> **Note:** Ensure that demo campaign emails and Teams messages are
-shared beforehand so the Researcher Agent can access relevant data and
-produce meaningful insights and summaries.
+    >[!Note] Ensure that demo campaign emails and Teams messages are
+    shared beforehand so the Researcher Agent can access relevant data and
+    produce meaningful insights and summaries.
 
-3\. Review the Researcher agent’s response: 
+3. Review the Researcher agent’s response: 
 
-The agent searches across Outlook, Teams, and SharePoint documents to
-retrieve the following:
+    The agent searches across Outlook, Teams, and SharePoint documents to
+    retrieve the following:
 
-- Aggregates insights
+    - Aggregates insights
+    
+    - Builds structured summary
+    
+    - Campaign progress
+    
+    - Vendor updates
+    
+    - Risks
+    
+    - Strategic insights
 
-- Builds structured summary
+4. Review the output:
 
-- Campaign progress
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image18.png)
 
-- Vendor updates
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image19.png)
 
-- Risks
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image20.png)
 
-- Strategic insights
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image21.png)
 
-**4.** Review the output:
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image22.png)
 
-![](./media/image18.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image23.png)
 
-![](./media/image19.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image24.png)
 
-![](./media/image20.png)
-
-![](./media/image21.png)
-
-![](./media/image22.png)
-
-![](./media/image23.png)
-
-![](./media/image24.png)
-
-![](./media/image25.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image25.png)
 
 ## **Exercise 3: Action and Decision Intelligence **
 
@@ -301,7 +300,7 @@ take a specific action based on the data, findings, or situation.
 
 ### Task 1: Identify Startup Checklist
 
-1.  Navigate to +++<https://m365copilot.com/>+++ Microsoft 365 copilot
+1.  Navigate to +++https://m365copilot.com/+++ Microsoft 365 copilot
     page. 
 
 2.  David Turner, Cashier at Zava Retail is starting the day and looking
@@ -309,17 +308,17 @@ take a specific action based on the data, findings, or situation.
     Operations agent, paste the below given prompt in the field, and
     then click on the **Execute** button. 
 
-+++*I am opening cashier. Give me first 20-minute startup checklist.*+++
+    I am opening cashier. Give me first 20-minute startup checklist.*
 
-![](./media/image26.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image26.png)
 
 3.  Review the output:
 
-![](./media/image27.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image27.png)
 
 ### Task 2: Resolve Customer Issues
 
-1.  Navigate to +++<https://m365copilot.com/>+++ Microsoft 365 copilot
+1.  Navigate to +++https://m365copilot.com/+++ Microsoft 365 copilot
     page. 
 
 2.  Marie Brown, Store Associate wants to resolve recurring issues faced
@@ -327,35 +326,35 @@ take a specific action based on the data, findings, or situation.
     the Frontline Operations Agent, paste the below given prompt in the
     field and then click on the **Execute** button. 
 
-+++*Customer says wrong discount applied. What should I do?*+++
+    *Customer says wrong discount applied. What should I do?*
 
-![](./media/image28.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image28.png)
 
 3.  Review the output:
 
-- The agent will fetch the official policies and SOPs from knowledge
-  source and provide the response.
-
-> ![](./media/image29.png)
->
-> ![](./media/image30.png)
+    The agent will fetch the official policies and SOPs from knowledge
+    source and provide the response.
+    
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image29.png)
+    
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image30.png)
 
 4.  Paste the below given prompt in the field and then click on
     the **Execute** button. 
 
-+++*Product out of stock during sale. What are the next steps?*+++
+    `Product out of stock during sale. What are the next steps?`
 
-![](./media/image31.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image31.png)
 
 5.  Review the output:
 
-![](./media/image32.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image32.png)
 
-![](./media/image33.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image33.png)
 
 ### Task 3: Store Manager Scenario
 
-1.  Navigate to +++<https://m365copilot.com/>+++ Microsoft 365 copilot
+1.  Navigate to +++https://m365copilot.com/+++ Microsoft 365 copilot
     page. 
 
 2.  Fratini Greens, Store Manager wants to understand the top priorities
@@ -364,33 +363,33 @@ take a specific action based on the data, findings, or situation.
     step, go to the Frontline Operations Agent, paste the below given
     prompt in the field, and then click on the **Execute** button. 
 
-+++*Create my top 5 priorities for Store \#118 during weekend rush.*+++
+    `Create my top 5 priorities for Store \#118 during weekend rush.`
 
-![](./media/image34.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image34.png)
 
 3.  Review the output:
 
-> ![](./media/image35.png)
->
-> ![](./media/image36.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image35.png)
+    
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image36.png)
 
 4.  Paste the below given prompt in the field, and then click on
     the **Execute** button. 
 
-+++*A new hire joined today as sales associate. Give Day 1 onboarding
-checklist.*+++
+    `A new hire joined today as sales associate. Give Day 1 onboarding
+    checklist.`
 
-![](./media/image37.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image37.png)
 
 5.  Review the output:
 
-![](./media/image38.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image38.png)
 
-![](./media/image39.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image39.png)
 
 ### Task 4: Multi-persona Role Testing
 
-1.  Navigate to +++<https://m365copilot.com/>+++ Microsoft 365 copilot
+1.  Navigate to +++https://m365copilot.com/+++ Microsoft 365 copilot
     page. 
 
 2.  Patricia Gray, Operations Head is looking for query resolution from
@@ -399,73 +398,61 @@ checklist.*+++
     below given prompt in the field and then click on
     the **Execute** button. 
 
-+++*As a regional operations manager, identify top recurring operational
-issues likely across 250 Zava stores and recommend fixes.*
+    ```
+    As a regional operations manager, identify top recurring operational
+    issues likely across 250 Zava stores and recommend fixes.*
+    
+    *Cashier: Help with queue rush handling  
+    Supervisor: Closing checklist  
+    Manager: Weekly priorities  
+    New Hire: First shift guidance  
+    Regional Lead: Store risk summary`
+    ```
 
-*Cashier: Help with queue rush handling  
-Supervisor: Closing checklist  
-Manager: Weekly priorities  
-New Hire: First shift guidance  
-Regional Lead: Store risk summary*+++
-
-![](./media/image40.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image40.png)
 
 3.  Review the output:
 
-![](./media/image41.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image41.png)
 
-![](./media/image42.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image42.png)
 
-![](./media/image43.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image43.png)
 
-![](./media/image44.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image44.png)
 
 ### Task 5: Review and Refine the Output 
 
 1.  Evaluate whether the Frontline Operations Agent’s summary meets your
-    expectations. 
-
-&nbsp;
-
-2.  If results are too broad or missing key details, refine your
+    expectations.
+    
+3.  If results are too broad or missing key details, refine your
     prompt. 
 
-> \> **Example**: *“Narrow this summary to focus only on critical risks
-> and delivery blockers.”*
+    >[!Knowledge] Narrow this summary to focus only on critical risks and delivery blockers.
 
 3.  Export or copy the summary for documentation, reports, or meeting
     notes. 
 
-![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image45.png)
+    ![A screenshot of a computer AI-generated content may be
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image45.png)
 
-**\> Note:** Here is a brief overview of the tasks associated with each
-icon shown in the screenshot: 
+    >[!Note] Here is a brief overview of the tasks associated with each icon shown in the screenshot: 
 
-![](./media/image46.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image46.png)
 
 1.  **Clipboard Icon** – Likely used for **copying or
     pasting** content. 
 
-&nbsp;
-
 2.  **Thumbs-Up Icon** – Typically indicates **liking or approving** an
-    item or action. 
-
-&nbsp;
-
-3.  **Thumbs-Down Icon** – Generally used to **dislike or
+    item or action.
+    
+4.  **Thumbs-Down Icon** – Generally used to **dislike or
     disapprove** something. 
-
-&nbsp;
 
 4.  **Speaker Icon** – Represents **audio settings or volume control**. 
 
-&nbsp;
-
 5.  **Pencil Icon** – Commonly used for **editing or writing** tasks. 
-
-&nbsp;
 
 6.  **Clock with Arrow Icon** – Tooltip says **"Add to recent page"**,
     which means it adds the current item to your **recently accessed
