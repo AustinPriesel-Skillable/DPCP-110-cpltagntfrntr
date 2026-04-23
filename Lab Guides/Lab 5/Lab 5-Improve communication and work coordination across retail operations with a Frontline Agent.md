@@ -112,7 +112,7 @@ include:
 
 ### **Estimated Duration: 40 minutes**
 
-## **Exercise 1: Create the Frontline Agent **
+## **Exercise 1: Create the Frontline Agent**
 
 Patricia logs into Copilot to review Festive Campaign readiness.
 
@@ -188,7 +188,7 @@ Patricia logs into Copilot to review Festive Campaign readiness.
 
 11. Click **Create** to publish the agent.
 
-> \> **Note:** Wait for 5-10 minutes for the agent building process
+> **Note:** Wait for 5-10 minutes for the agent building process
 > completion.
 
 ![](./media/image10.png)
@@ -244,7 +244,7 @@ emails related to Zava Retail Festive Campaign from the past 90 days.*
 
 *- Marketing campaign activities*
 
-*- Key risks or delays “*+++
+*- Key risks or delays *+++
 
 ![](./media/image16.png)
 
@@ -255,11 +255,11 @@ emails related to Zava Retail Festive Campaign from the past 90 days.*
 
 ![](./media/image17.png)
 
-\> **Note:** Ensure that demo campaign emails and Teams messages are
-shared beforehand so the Researcher Agent can access relevant data and
-produce meaningful insights and summaries.
+> **Note:** Ensure that demo campaign emails and Teams messages are
+> shared beforehand so the Researcher Agent can access relevant data and
+> produce meaningful insights and summaries.
 
-3\. Review the Researcher agent’s response: 
+3. Review the Researcher agent’s response: 
 
 The agent searches across Outlook, Teams, and SharePoint documents to
 retrieve the following:
@@ -430,8 +430,8 @@ Regional Lead: Store risk summary*+++
 2.  If results are too broad or missing key details, refine your
     prompt. 
 
-> \> **Example**: *“Narrow this summary to focus only on critical risks
-> and delivery blockers.”*
+> **Example**: *“Narrow this summary to focus only on critical risks
+>  and delivery blockers.”*
 
 3.  Export or copy the summary for documentation, reports, or meeting
     notes. 
@@ -439,8 +439,8 @@ Regional Lead: Store risk summary*+++
 ![A screenshot of a computer AI-generated content may be
 incorrect.](./media/image45.png)
 
-**\> Note:** Here is a brief overview of the tasks associated with each
-icon shown in the screenshot: 
+> **Note:** Here is a brief overview of the tasks associated with each
+> icon shown in the screenshot: 
 
 ![](./media/image46.png)
 
