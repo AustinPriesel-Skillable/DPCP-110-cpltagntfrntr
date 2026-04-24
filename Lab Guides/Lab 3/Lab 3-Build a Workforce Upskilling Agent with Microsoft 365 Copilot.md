@@ -74,7 +74,7 @@ and configure it inside Microsoft 365 Copilot.
 ## Task 1: Open Agent Builder
 
 1.  Navigate to +++https://m365copilot.com/+++ to open Microsoft 365
-    copilot page. Sign in with your credentials.
+    copilot page. Sign in with your credentials.
     
     ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%203/media/image1.png)
 
@@ -99,37 +99,37 @@ and configure it inside Microsoft 365 Copilot.
     
       ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%203/media/image4.png)
 
-2.  Paste the below given prompt in the field and then click on
-    the **Execute** button. 
+2.  Paste the below given prompt in the field and then click on
+    the **Execute** button. 
 
     ```
     You are Zava Retail’s Workforce Coach.
     
-    *Your purpose is to help leaders identify workforce capability gaps,
+    Your purpose is to help leaders identify workforce capability gaps,
     generate personalized learning plans, support coaching simulations,
-    and recommend interventions during digital transformation.*
+    and recommend interventions during digital transformation.
     
-    *Focus on:*
+    Focus on:
     
-    - *RMS adoption*
+    - RMS adoption
     
-    - *AI inventory forecasting literacy*
+    - AI inventory forecasting literacy
     
-    - *Customer analytics interpretation*
+    - Customer analytics interpretation
     
-    - *Supply chain risk management*
+    - Supply chain risk management
     
-    - *Change adoption coaching*
+    - Change adoption coaching
     
-    *Always tailor recommendations based on:*
+    Always tailor recommendations based on:
     
-    - *Employee role*
+    - Employee role
     
-    - *Operational urgency*
+    - Operational urgency
     
-    - *Experience level*
+    - Experience level
     
-    - *Retail store cluster context
+    - Retail store cluster context
     ```
 
 3.  Review the output:
@@ -173,14 +173,14 @@ Retail.
     and approximately 600 employees across store operations, supply chain,
     customer experience, and merchandising.*  
     
-    *We are currently migrating to a new Retail Management System (RMS)
+    We are currently migrating to a new Retail Management System (RMS)
     and deploying AI-powered inventory forecasting and customer analytics
-    tools.*  
+    tools.
     
-    *Our key upskilling priorities are:*  
-    *1. RMS system adoption*  
-    *2. AI inventory and analytics supervisory skills*  
-    *3. Supply chain risk management for mid-career analysts
+    Our key upskilling priorities are:
+    1. RMS system adoption*  
+    2. AI inventory and analytics supervisory skills
+    3. Supply chain risk management for mid-career analysts
     ```
   
       ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%203/media/image9.png)
@@ -193,8 +193,7 @@ Retail.
 
 1.  To test the agent, enter the following prompt and click on the
     **Execute** button.  
-    +++What are the most critical workforce skill domains I should
-    prioritize during this retail digital transformation? +++*
+    +++What are the most critical workforce skill domains I should prioritize during this retail digital transformation?+++
 
       ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%203/media/image11.png)
 
@@ -212,8 +211,8 @@ diagnose workforce skills gaps:
     ```
     I have a Store Operations Supervisor named Alex who is consistently
     overriding AI-powered inventory replenishment alerts without reviewing
-    them — approximately 3 times per week over the past month.*  
-    *Based on this behavioral signal, what skill gaps should I hypothesize,
+    them — approximately 3 times per week over the past month.
+    Based on this behavioral signal, what skill gaps should I hypothesize,
     and what targeted learning plan should I create?
     ```
 
@@ -231,8 +230,8 @@ diagnose workforce skills gaps:
     ```
     One of our supply chain analysts, Maria, is leaving in 60 days. She
     owns four sole-source supplier relationships with no documented handover
-    process.*  
-    *What urgent learning and knowledge transfer plan should I implement?
+    process.
+    What urgent learning and knowledge transfer plan should I implement?
     ```
 
     ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%203/media/image15.png)
@@ -246,10 +245,9 @@ diagnose workforce skills gaps:
 1.  Paste the following prompt to diagnose workforce skills gaps:
 
     ```
-    Our RMS went live 6 months ago. Derek is at 31% system utilization —
-    lowest on his team.*  
-    *He has 11 years of legacy system experience.*  
-    *What resistance patterns and skill gaps should I address?
+    Our RMS went live 6 months ago. Derek is at 31% system utilization lowest on his team.
+    He has 11 years of legacy system experience.
+    What resistance patterns and skill gaps should I address?
     ```
   
     ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%203/media/image17.png)
@@ -266,12 +264,12 @@ diagnose workforce skills gaps:
     the **Execute** button.  
       
     ```
-    Generate a structured 6-week learning plan for Alex with:*  
-    *- Learning objectives*  
-    *- Weekly activities*  
-    *- Resources*  
-    *- Checkpoints*  
-    *- Success metrics*
+    Generate a structured 6-week learning plan for Alex with:  
+    - Learning objectives  
+    - Weekly activities 
+    - Resources
+    - Checkpoints
+    - Success metrics
     ```
 
     ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%203/media/image19.png)
@@ -286,10 +284,10 @@ diagnose workforce skills gaps:
 
     ```
     Generate a 60-day knowledge transfer and upskilling plan for Maria’s
-    transition scenario.*  
-    *Include parallel tracks for:*  
-    *1. Knowledge transfer*  
-    *2. Analyst upskilling
+    transition scenario. 
+    Include parallel tracks for:
+    1. Knowledge transfer
+    2. Analyst upskilling
     ```
 
     ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%203/media/image21.png)
@@ -323,11 +321,11 @@ diagnose workforce skills gaps:
     
     ```
     Generate a workforce readiness briefing for Zava Retail
-    covering:*  
-    *1. Current risk summary*  
-    *2. Intervention status*  
-    *3. What I need from Store Managers*  
-    *4. 30-day watch list
+    covering:
+    1. Current risk summary
+    2. Intervention status
+    3. What I need from Store Managers 
+    4. 30-day watch list
     ```
 
     ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%203/media/image25.png)
@@ -342,8 +340,7 @@ diagnose workforce skills gaps:
     paste the below prompt and click on the **Execute** button.
     
     ```
-    Condense this into a 5-bullet summary for my VP of HR focused only
-    on HR action items.
+    Condense this into a 5-bullet summary for my VP of HR focused only on HR action items.
     ```
     
    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%203/media/image27.png)
