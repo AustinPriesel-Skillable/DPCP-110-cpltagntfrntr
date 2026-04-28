@@ -203,7 +203,7 @@ Patricia Gray (Regional operations manager) is seeking for an overview
 of the operational activities and get the key operations related queries
 of Zava Retail on Microsoft Teams for better visibility.
 
-1.  Navigate to Microsoft Teams +++https://teams.cloud.microsoft.com+++
+1.  Navigate to Microsoft Teams +++https://teams.microsoft.com+++
     and sign in with your credentials.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%205/media/image1.png)
