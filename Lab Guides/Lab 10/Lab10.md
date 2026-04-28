@@ -129,7 +129,7 @@ incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs
     through the guide.
 
 5.  We'll create prompt that will generate questions for a quiz. Enter
-    the name for the prompt as +++Quiz Generator@lab.LabInstance.Id +++.
+    the name for the prompt as +++Quiz Generator@lab.LabInstance.Id+++.
 
 6.  Paste the below content in the Prompt field.
 
