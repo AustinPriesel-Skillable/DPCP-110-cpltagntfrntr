@@ -112,10 +112,7 @@ first version will be.
     prompt and click on the **Execute** button.
 
     ```
-    Add a section to the dashboard that highlights overdue asset requests
-    — items that have been in Pending Collection status for more than 7
-    days. Show the employee's name, asset type, and how many days are
-    overdue.
+    Add a section to the dashboard that highlights overdue asset requests items that have been in Pending Collection status for more than 7 days. Show the employee's name, asset type, and how many days are overdue.
     ```
 
     ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image7.png)
@@ -256,9 +253,7 @@ complete.
     following prompt and click on **Execute** button.
 
     ```
-    Draft a brief message I can send to the Zava Retail IT team
-    explaining what this app does, how to log a new asset assignment, and
-    how to check overdue items.*
+    Draft a brief message I can send to the Zava Retail IT team explaining what this app does, how to log a new asset assignment, and how to check overdue items.
     ```
     
     ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%204/media/image24.png)
