@@ -423,12 +423,11 @@ take a specific action based on the data, findings, or situation.
 1.  Evaluate whether the Frontline Operations Agent’s summary meets your
     expectations. 
 
-&nbsp;
 
 2.  If results are too broad or missing key details, refine your
     prompt. 
 
->[Knowledge] “Narrow this summary to focus only on critical risks and delivery blockers.”
+    >[Knowledge] “Narrow this summary to focus only on critical risks and delivery blockers.”
 
 3.  Export or copy the summary for documentation, reports, or meeting
     notes. 
