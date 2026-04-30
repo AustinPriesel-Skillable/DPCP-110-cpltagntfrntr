@@ -57,31 +57,33 @@ most relevant numbers.
 
 Complete the following steps in order:
 
-1.  Select the link to download the file +++[Zava Home COGS
-    Estimates.xlsx](https://lodsprodmca-my.sharepoint.com/:x:/g/personal/user1-60937628_lodsprodmca_onmicrosoft_com/IQBL70zVOJ3sQ6XBRs0_LNnnAcW0gU1fKYz-c2WQVjy93Cs?e=Td8yOB)+++
-    file and store it on your desktop.  
-    ![](./media/image1.png)
+1.  Select the link to download the file +++https://lodsprodmca-my.sharepoint.com/:x:/g/personal/user1-60937628_lodsprodmca_onmicrosoft_com/IQBL70zVOJ3sQ6XBRs0_LNnnAcW0gU1fKYz-c2WQVjy93Cs?e=Td8yOB+++ and store it on your desktop.  
 
-2.  Open the excel sheet and Select the Copilot icon from the Home tab
+![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%207/media/image1.png)
+
+3.  Open the excel sheet and Select the Copilot icon from the Home tab
     ribbon.  
-    ![](./media/image2.png)
 
-3.  To analyze the dataset, paste the prompt below and select
+![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%207/media/image2.png)
+
+5.  To analyze the dataset, paste the prompt below and select
     **Execute** button:
 
-> *+++I'm a financial analyst for Zava Retail. I was asked to analyze
-> the Zava Home COGS Estimates spreadsheet for Zava Retail's new Zava
-> Home product line. Can you please review the dataset in this
-> spreadsheet and provide two things in a new sheet: (1) a clear
-> description of each key column and its purpose, and (2) a list of any
-> missing or inconsistent data points that could affect accuracy.
-> Present your findings in a concise, structured format in a new sheet.
-> +++*  
->   
-> ![](./media/image3.png)
+    ```
+    I'm a financial analyst for Zava Retail. I was asked to analyze
+    the Zava Home COGS Estimates spreadsheet for Zava Retail's new Zava
+    Home product line. Can you please review the dataset in this
+    spreadsheet and provide two things in a new sheet: (1) a clear
+    description of each key column and its purpose, and (2) a list of any
+    missing or inconsistent data points that could affect accuracy.
+    Present your findings in a concise, structured format in a new sheet.
+    ```
+
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%207/media/image3.png)
 
 4.  Review the output:  
-    ![](./media/image4.png)
+
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%207/media/image4.png)
 
 # Exercise 2: Use Copilot in Teams to Summarize Meeting Notes
 
@@ -93,35 +95,39 @@ you turned to Copilot for help.
 
 ## Task 1: Summarize Meeting Notes
 
-1.  Select the link to download the file+++[Zava Retail Finance meeting
-    notes.txt](https://lodsprodmca-my.sharepoint.com/:t:/g/personal/user1-60937628_lodsprodmca_onmicrosoft_com/IQDaF9EO3DI6Q5eQlVQk477yAXjd5XK3MWGLTLeVa7PmMZg?e=nYJ7TW)
-    +++ file and store it on your desktop.![](./media/image5.png)
+1.  Select the link to download the file +++https://lodsprodmca-my.sharepoint.com/:t:/g/personal/user1-60937628_lodsprodmca_onmicrosoft_com/IQDaF9EO3DI6Q5eQlVQk477yAXjd5XK3MWGLTLeVa7PmMZg?e=nYJ7TW+++  and store it on your desktop.
 
-2.  Navigate to +++ [Microsoft 365 home
-    page](https://m365.cloud.microsoft) +++, select Apps in the
-    navigation pane.  
-    ![](./media/image6.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%207/media/image5.png)
 
-3.  Select Teams.  
+3.  Navigate to +++https://m365.cloud.microsoft+++, select Apps in the
+    navigation pane.
+    
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%207/media/image6.png)
+
+5.  Select Teams.  
       
-    ![](./media/image7.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%207/media/image7.png)
 
 4.  Open the Copilot Chat. In Teams for the web, select Copilot in the
     navigation pane.
 
-![](./media/image8.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%207/media/image8.png)
 
 5.  In the Copilot description box, paste the following prompt and
-    select the **Execute** button.  
-    *+++Generate a downloadable summary. Review the summary to ensure it
+    select the **Execute** button.
+    
+    ```
+    Generate a downloadable summary. Review the summary to ensure it
     includes decisions, next steps, and responsibilities. Ask Copilot to
     generate a downloadable file for distribution to the meeting
-    participants. Download the document that Copilot generated+++*  
-    ![](./media/image9.png)
+    participants. Download the document that Copilot generated
+    ```
 
-6.  Review the output:  
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%207/media/image9.png)
+
+7.  Review the output:  
       
-    ![](./media/image10.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%207/media/image10.png)
 
 ## Task 2: Creating a Task List
 
@@ -131,15 +137,20 @@ items in the notes.
 
 1.  To generate a task list, paste the below prompt in the description
     box and select the **Execute** icon.  
-    *+++Based on the action items and next steps in the meeting summary,
+
+    ```
+    Based on the action items and next steps in the meeting summary,
     create a detailed task list for each participant. Assign
     responsibilities clearly and include suggested deadlines or priority
     levels for each task, such as high, medium, or low priority where
-    appropriate+++*  
-    ![](./media/image11.png)
+    appropriate
+    ```
+        
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%207/media/image11.png)
 
-2.  Review the output:  
-    ![](./media/image12.png)
+2.  Review the output:
+   
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%207/media/image12.png)
 
 ## Task 3: Generate a Calendar Invite
 
@@ -148,14 +159,18 @@ the team to reconvene.
 
 1.  To generate a calendar, paste the below prompt in the description
     box and select the **Execute** icon.  
-    *+++Draft a follow-up email to the team summarizing the meeting
+
+    ```
+    Draft a follow-up email to the team summarizing the meeting
     outcomes and including the assigned task list with responsibilities,
-    deadlines, and priority levels for each participant*. *+++*  
-    ![](./media/image13.png)
+    deadlines, and priority levels for each participant*.
+    ```
+    
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%207/media/image13.png)
 
 2.  Review the output:
 
-# ![](./media/image14.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%207/media/image14.png)
 
 # Exercise 3: Use Copilot Chat to Analyze a Potential Acquisition
 
@@ -173,30 +188,30 @@ high-level, vague ones.
 
 ## Task 1: Create a business perspective summary 
 
-1.  Select the link to download the [**Relecloud Business
-    Perspective.docx**](https://lodsprodmca-my.sharepoint.com/:w:/g/personal/user1-60937628_lodsprodmca_onmicrosoft_com/IQDjzfCRxXzNQJTSria4EuM0ATPGInYD5b93Yom1IT2zrsU?e=JxlYD5)
-    file and store it on your desktop.
+1.  Select the link to download the file +++https://lodsprodmca-my.sharepoint.com/:w:/g/personal/user1-60937628_lodsprodmca_onmicrosoft_com/IQDjzfCRxXzNQJTSria4EuM0ATPGInYD5b93Yom1IT2zrsU?e=JxlYD5+++ and store it on your desktop.
 
 2.  In Microsoft Edge, go to the Microsoft 365 home page and select
-    **Work** mode.  
-    *(Work mode ensures Copilot uses secure internal business context,
-    while Web mode searches public external sources.*  
-    ![](./media/image15.png)
+    **Work** mode.
+    
+    *(Work mode ensures Copilot uses secure internal business context, while Web mode searches public external sources.*
+    
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%207/media/image15.png)
 
-3.  In the Copilot prompt field, attach the [**Relecloud Business
-    Perspective.docx**](https://lodsprodmca-my.sharepoint.com/:w:/g/personal/user1-60937628_lodsprodmca_onmicrosoft_com/IQDjzfCRxXzNQJTSria4EuM0ATPGInYD5b93Yom1IT2zrsU?e=JxlYD5)
-    file. Paste the following prompt and select the **Execute** button.
+4.  In the Copilot prompt field, attach the Relecloud Business Perspective.docx** file. Paste the following prompt and select the **Execute** button.
 
-+++*Review the attached Relecloud Business Perspective document and
-create a business perspective summary with the following three sections:
-(1) Relecloud’s financial data, (2) Operations analysis of Relecloud,
-and (3) Integration plan for the acquisition. Present the summary in a
-clear and structured executive format suitable for leadership review.*
-+++  
-![](./media/image16.png)
+    ```
+    Review the attached Relecloud Business Perspective document and
+    create a business perspective summary with the following three sections:
+    (1) Relecloud’s financial data, (2) Operations analysis of Relecloud,
+    and (3) Integration plan for the acquisition. Present the summary in a
+    clear and structured executive format suitable for leadership review.*
+    ```
+
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%207/media/image16.png)
 
 4.  Review the output:  
-    ![](./media/image17.png)
+
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%207/media/image17.png)
 
 ## Task 2: Expand the Summary and generate a comprehensive report
 
@@ -205,58 +220,61 @@ comprehensive version of the report with deeper analysis and visuals.
   
 1. In the Copilot prompt field, paste the following prompt and select
 the **Execute** button.
+    
+    ```
+    Expand the previous Relecloud acquisition report and include all
+    prior information, plus the following additional analysis:*
+    
+    1.  *Financial Analysis Section:*
+    
+    - *Valuation and deal structure, including valuation multiples and deal
+    structure implications*
+    
+    - *Financial health and ratios, including liquidity, solvency,
+    profitability trends, gross-to-net retention by cohort, regional ARR
+    dynamics, and cash flow analysis*
+    
+    - *Revenue and customer concentration, including revenue breakdown,
+    concentration risks by customer and sector, churn drivers, and
+    retention trends*
+    
+    - *Include line or bar charts showing revenue, EBITDA, net income, gross
+    margin, and operating margin trends over time*
+    
+    2.  *Operations Analysis Section:*
+    
+    - *Cost structure and efficiency, including COGS, OpEx, efficiency
+    metrics, and scalability assessment*
+    
+    - *Competitive positioning, including SWOT analysis and peer
+    benchmarking*
+    
+    - *Include a SWOT Matrix visual summarizing strengths, weaknesses,
+    opportunities, and threats*
+    
+    - *Include a Scalability Assessment Diagram illustrating DevSecOps
+    maturity, infrastructure readiness, and organizational scalability.*
+    
+    3.  *Integration Planning Section:*
+    
+    - *Synergy and integration modeling, including synergy realization
+    opportunities, integration risks, and post-merger integration
+    planning*
+    
+    - *Leadership and organizational review, including management track
+    record and organizational structure assessment*
+    
+    - *Include an Integration Timeline (Gantt Chart) showing phases and
+    milestones for post-merger integration*
+    
+    - *Format the report as a detailed executive acquisition analysis
+    suitable for finance leadership decision-making*
+    ```
+  
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%207/media/image18.png)
 
-+++*Expand the previous Relecloud acquisition report and include all
-prior information, plus the following additional analysis:*
-
-1.  *Financial Analysis Section:*
-
-- *Valuation and deal structure, including valuation multiples and deal
-  structure implications*
-
-- *Financial health and ratios, including liquidity, solvency,
-  profitability trends, gross-to-net retention by cohort, regional ARR
-  dynamics, and cash flow analysis*
-
-- *Revenue and customer concentration, including revenue breakdown,
-  concentration risks by customer and sector, churn drivers, and
-  retention trends*
-
-- *Include line or bar charts showing revenue, EBITDA, net income, gross
-  margin, and operating margin trends over time*
-
-2.  *Operations Analysis Section:*
-
-- *Cost structure and efficiency, including COGS, OpEx, efficiency
-  metrics, and scalability assessment*
-
-- *Competitive positioning, including SWOT analysis and peer
-  benchmarking*
-
-- *Include a SWOT Matrix visual summarizing strengths, weaknesses,
-  opportunities, and threats*
-
-- *Include a Scalability Assessment Diagram illustrating DevSecOps
-  maturity, infrastructure readiness, and organizational scalability.*
-
-3.  *Integration Planning Section:*
-
-- *Synergy and integration modeling, including synergy realization
-  opportunities, integration risks, and post-merger integration
-  planning*
-
-- *Leadership and organizational review, including management track
-  record and organizational structure assessment*
-
-- *Include an Integration Timeline (Gantt Chart) showing phases and
-  milestones for post-merger integration*
-
-- *Format the report as a detailed executive acquisition analysis
-  suitable for finance leadership decision-making*+++  
-  ![](./media/image18.png)
-
-2\. Review the output:  
-![](./media/image19.png)
+2. Review the output:  
+![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%207/media/image19.png)
 
 # Lab Summary
 

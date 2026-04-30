@@ -2,23 +2,23 @@
 
 ## **Lab objectives** 
 
-In this lab, you will learn how to use the Researcher Agent in Microsoft
-365 to gather, summarize, and analyse organization-related
-information. The Researcher Agent can collect relevant data from your
+In this lab, you will learn how to use the Researcher Agent in Microsoft
+365 to gather, summarize, and analyse organization-related
+information. The Researcher Agent can collect relevant data from your
 documents, emails, chats, and Teams messages, helping you create
-summaries, reports, and follow-ups on a given project or topic. After
-completing this lab, you will be able to: 
+summaries, reports, and follow-ups on a given project or topic. After
+completing this lab, you will be able to: 
 
-- Locate and launch the **Researcher Agent** in Microsoft 365. 
+- Locate and launch the **Researcher Agent** in Microsoft 365. 
 
-- Use prompts to gather recent discussions, documents, and emails. 
+- Use prompts to gather recent discussions, documents, and emails. 
 
-- Interact with follow-up questions to refine results. 
+- Interact with follow-up questions to refine results. 
 
-- Generate summaries, reports, or action items related to a topic. 
+- Generate summaries, reports, or action items related to a topic. 
 
 - Explore advanced prompt use cases such as progress updates, meeting
-  prep, and document discovery. 
+  prep, and document discovery. 
 
 ## **Scenario** 
 
@@ -75,114 +75,115 @@ challenges include:
 
 Patricia logs into Copilot to review Festive Campaign readiness.
 
-1.  Navigate to +++<https://m365copilot.com/>+++ to open Microsoft 365 copilot
+1.  Navigate to +++https://m365copilot.com/+++ to open Microsoft 365 copilot
     page.
 
-2.  Enter the **User ID** in the field and then click on
-    the **Next** button to proceed. 
+2.  Enter the **User ID** in the field and then click on
+    the **Next** button to proceed. 
 
- ![](./media/image1.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%202/media/image1.png)
 
-3.  Enter **Password** in the field and then click on the **Sign
-    in** button and click on the **Yes** to stay Signed in. 
+3.  Enter **Password** in the field and then click on the **Sign
+    in** button and click on the **Yes** to stay Signed in. 
 
-![](./media/image2.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%202/media/image2.png)
 
 4.  Explore the Copilot chat environment.
 
-![](./media/image3.png) 
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%202/media/image3.png) 
 
-5.  In the left **navigation pane**, look for **Agents**. 
+5.  In the left **navigation pane**, look for **Agents**. 
 
-- If **Researcher** appears directly under the **Agents** section \>
-  select **Researcher**. 
+    - If **Researcher** appears directly under the **Agents** section \>
+      select **Researcher**. 
 
-![](./media/image4.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%202/media/image4.png)
 
-- If not, select **All Agents**. In the **Agent Store** window, under
-  the **Built by Microsoft** section, select **Researcher**. 
+    - If not, select **All Agents**. In the **Agent Store** window, under
+      the **Built by Microsoft** section, select **Researcher**. 
 
-![](./media/image5.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%202/media/image5.png)
 
 6.  Select **Open** to access the Researcher agent.
 
-![](./media/image6.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%202/media/image6.png)
 
-7.  The **Researcher Agent window** opens in a new pane. 
+7.  The **Researcher Agent window** opens in a new pane. 
 
-![](./media/image7.png) 
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%202/media/image7.png) 
 
-## **Exercise 2: Run Your First Research Prompt (Campaign Intelligence)**
+## **Exercise 2: Run Your First Research Prompt (Campaign Intelligence)**
 
 Patricia wants a complete overview of campaign progress for Zava Retail.
 
-1.  Go to the Researcher agent, paste the following prompt in the prompt
-    field, and then click on the **Execute** button. 
+1.  Go to the Researcher agent, paste the following prompt in the prompt
+    field, and then click on the **Execute** button. 
 
-+++*Help me gather and summarize all recent discussions, documents, and
-emails related to Zava Retail Festive Campaign from the past 90 days.*
+    ```
+    Help me gather and summarize all recent discussions, documents, and emails related to Zava Retail Festive Campaign from the past 90 days.
 
-*Include:*
+    Include:
+    
+    - Campaign planning progress
+    
+    - Vendor onboarding updates
+    
+    - Inventory readiness
+    
+    - Marketing campaign activities
+    
+    - Key risks or delays
+    ```
 
-*- Campaign planning progress*
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%202/media/image8.png)
 
-*- Vendor onboarding updates*
-
-*- Inventory readiness*
-
-*- Marketing campaign activities*
-
-*- Key risks or delays*+++
-
-![](./media/image8.png)
-
-2.  Wait for the **Researcher Agent** to gather and summarize the data
-    review the Researcher agent carefully. The Researcher Agent may ask
-    clarifying questions. Select the report length as “Short” and select
+2.  Wait for the **Researcher Agent** to gather and summarize the data
+    review the Researcher agent carefully. The Researcher Agent may ask
+    clarifying questions. Select the report length as “Short” and select
     “Go ahead with your best judgement” and select **Execute** button.
 
-![](./media/image9.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%202/media/image9.png)
 
-\> **Note:** Ensure that demo campaign emails and Teams messages are
+    >[!Note] Ensure that demo campaign emails and Teams messages are
 shared beforehand so the Researcher Agent can access relevant data and
 produce meaningful insights and summaries.
 
-3\. Review the Researcher agent’s response: 
+3. Review the Researcher agent’s response: 
 
-The agent searches across Outlook, Teams, and SharePoint documents to
-retrieve the following:
+    The agent searches across Outlook, Teams, and SharePoint documents to
+    retrieve the following:
+    
+    - Aggregates insights
+    
+    - Builds structured summary
+    
+    - Campaign progress
+    
+    - Vendor updates
+    
+    - Risks
+    
+    - Strategic insights
 
-- Aggregates insights
+4. Review the output:
 
-- Builds structured summary
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%202/media/image10.png)
 
-- Campaign progress
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%202/media/image11.png)
 
-- Vendor updates
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%202/media/image12.png)
 
-- Risks
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%202/media/image13.png)
 
-- Strategic insights
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%202/media/image14.png)
 
-**4.** Review the output:
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%202/media/image15.png)
 
-![](./media/image10.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%202/media/image16.png)
 
-![](./media/image11.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%202/media/image17.png)
 
-![](./media/image12.png)
-
-![](./media/image13.png)
-
-![](./media/image14.png)
-
-![](./media/image15.png)
-
-![](./media/image16.png)
-
-![](./media/image17.png)
-
-## Exercise 3: Action and Decision Intelligence
+## Exercise 3: Action and Decision Intelligence
 
 Patricia Gray needs clear next steps and decisions. This exercise will
 help Researcher Agent perform a task or take a specific action based on
@@ -190,267 +191,271 @@ the data, findings, or situation.
 
 ### Task 1: Identify Action Items
 
-1.  Navigate to +++<https://m365copilot.com/>+++ Microsoft 365 copilot
-    page. 
+1.  Navigate to +++https://m365copilot.com/+++ Microsoft 365 copilot
+    page. 
 
-2.  Go to the Researcher agent, paste the below given prompt in the
-    field and then click on the **Execute** button. 
+2.  Go to the Researcher agent, paste the below given prompt in the
+    field and then click on the **Execute** button. 
 
-+++*List all action items related to the Zava Festive Campaign.* +++
+    `List all action items related to the Zava Festive Campaign.`
 
-![](./media/image18.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%202/media/image18.png)
 
 3.  Review the output:
 
-- Action items such as “Pending approval”, “Pending confirmation”,
-  “Under review” are identified as **Action Items**.
+    - Action items such as “Pending approval”, “Pending confirmation”,
+      “Under review” are identified as **Action Items**.
 
-![](./media/image19.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%202/media/image19.png)
 
-![](./media/image20.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%202/media/image20.png)
 
 ### Task 2: Key Decisions
 
-1\. Under the Researcher agent, paste the below given prompt in the
-field and then click on the **Execute** button. 
+1. Under the Researcher agent, paste the below given prompt in the
+field and then click on the **Execute** button. 
 
-+++*Summarize key decisions made across emails and Teams discussions for
-the campaign.*+++
+    `Summarize key decisions made across emails and Teams discussions for
+the campaign.`
 
-![](./media/image21.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%202/media/image21.png)
 
 2.  Review the output:
 
-- The key decisions related to multiple action items and teams are
-  summarized in the output.
+    - The key decisions related to multiple action items and teams are
+      summarized in the output.
 
-![](./media/image22.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%202/media/image22.png)
 
-![](./media/image23.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%202/media/image23.png)
 
 ### Task 3: Draft Leadership Email
 
-1\. Under Researcher agent, paste the below given prompt in the chat
-panel and then click on the **Execute** button. 
+1. Under Researcher agent, paste the below given prompt in the chat
+panel and then click on the **Execute** button. 
 
-+++ *Draft an email to the leadership team summarizing campaign
-readiness and participation.* +++
+    `Draft an email to the leadership team summarizing campaign
+    readiness and participation.`
 
-![](./media/image24.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%202/media/image24.png)
 
-2\. Wait for the **Researcher Agent** to gather and summarize the data
-review the Researcher agent carefully. The Researcher Agent may ask
-clarifying questions. Select the report length as “Short” and select “Go
+2. Wait for the **Researcher Agent** to gather and summarize the data
+review the Researcher agent carefully. The Researcher Agent may ask
+clarifying questions. Select the report length as “Short” and select “Go
 ahead with your best judgement” and select the **Execute** button.
 
-![](./media/image25.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%202/media/image25.png)
 
-3.  Review the output: 
+3.  Review the output: 
 
- ![](./media/image26.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%202/media/image26.png)
 
-![](./media/image27.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%202/media/image27.png)
 
-![](./media/image28.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%202/media/image28.png)
 
 ### Task 4: Meeting Preparation (Executive Readiness)
 
-Meeting preparation prompts help you gather background
-information, summarize key updates, and identify action items or
-discussion points before a meeting. They ensure that all participants
-come informed and ready to contribute effectively. Patricia has a
+Meeting preparation prompts help you gather background
+information, summarize key updates, and identify action items or
+discussion points before a meeting. They ensure that all participants
+come informed and ready to contribute effectively. Patricia has a
 leadership review meeting in next week and she want to be prepared for
 the upcoming meeting.
 
 1.  Under the Researcher agent, paste the below given prompt in the
-    field and then click on the **Execute** button. 
+    field and then click on the **Execute** button. 
 
-+++*Help me prepare for an upcoming meeting by summarizing recent
-communication and shared files about.*+++
+    `Help me prepare for an upcoming meeting by summarizing recent
+    communication and shared files about.`
 
-![](./media/image29.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%202/media/image29.png)
 
-2.  Wait for the **Researcher Agent** to gather and summarize the data
-    review the Researcher agent carefully. The Researcher Agent may ask
-    clarifying questions. Select the report length as “Short” and select
+2.  Wait for the **Researcher Agent** to gather and summarize the data
+    review the Researcher agent carefully. The Researcher Agent may ask
+    clarifying questions. Select the report length as “Short” and select
     “Meeting is the Q2 Sales Review on April 10” and select the
     **Execute** button.
 
-![](./media/image30.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%202/media/image30.png)
 
 3.  Review the output:
 
-![](./media/image31.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%202/media/image31.png)
 
-![](./media/image32.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%202/media/image32.png)
 
-![](./media/image33.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%202/media/image33.png)
 
 4.  Paste the below given prompt in the field and then click on
-    the **Execute** button.
+    the **Execute** button.
+    
+    `What topics have been discussed in past weekly team syncs?`
 
-+++*What topics have been discussed in past weekly team syncs?* +++
-
-![](./media/image34.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%202/media/image34.png)
 
 5.  Review the output:
 
-> ![](./media/image35.png)
->
-> ![](./media/image36.png)
->
-> ![](./media/image37.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%202/media/image35.png)
+
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%202/media/image36.png)
+
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%202/media/image37.png)
 
 ### Task 5: Progress and Status Analysis
 
 Progress and status updates help you to review
-achievements, identify gaps, and plan next steps. Patricia Gray wants to
+achievements, identify gaps, and plan next steps. Patricia Gray wants to
 update the current status, blockers, and overall campaign progress to
 the leadership team.
 
 1.  Under Researcher agent, paste the below given prompt in the field
-    and then click on the **Execute** button.   
-    +++*Summarize the current status and blockers for the Zava Festive
-    Campaign.*+++
+    and then click on the **Execute** button.
+    
+    `Summarize the current status and blockers for the Zava Festive
+    Campaign.`
 
-![](./media/image38.png)
-
-2.  Review the output:
-
-![](./media/image39.png)
-
-![](./media/image40.png)
-
-![](./media/image41.png)
-
-### Task 6: Identify Gaps and Risks
-
-This section helps identify missing information, unclear points, or
-areas needing further investigation from research, meetings, or ongoing
-project activities. Summary Prompts help you articulate what’s unclear,
-while Action Prompts guide you to resolve or explore these gaps
-further. Patricia wants to uncover hidden risks.
-
-1.  Under Research agent window, paste the below given prompt in the
-    field and then click on the **Execute** button. 
-
-+++*What open questions or gaps remain in the Zava Festive Campaign?*+++
-
-> ![](./media/image42.png)
-
-2.  Wait for the **Researcher Agent** to gather and summarize the data
-    review the Researcher agent carefully. The Researcher Agent may ask
-    clarifying questions. Select the report length as “Short” and select
-    “Analyze sales data and customer feedback for gaps” and select the
-    **Execute** button.
-
-> ![](./media/image43.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%202/media/image38.png)
 
 3.  Review the output:
 
-> ![](./media/image44.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%202/media/image39.png)
 
-### Task 7: Document Discovery and Insights 
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%202/media/image40.png)
 
-This section helps users or AI tools explore, analyse, and extract
-valuable information from existing documents, reports, or shared
-repositories. It focuses on identifying key insights, patterns, or
-references that can guide research, planning, or project documentation. 
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%202/media/image41.png)
+
+### Task 6: Identify Gaps and Risks
+
+This section helps identify missing information, unclear points, or
+areas needing further investigation from research, meetings, or ongoing
+project activities. Summary Prompts help you articulate what’s unclear,
+while Action Prompts guide you to resolve or explore these gaps
+further. Patricia wants to uncover hidden risks.
+
+1.  Under Research agent window, paste the below given prompt in the
+    field and then click on the **Execute** button. 
+
+    `What open questions or gaps remain in the Zava Festive Campaign?`
+
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%202/media/image42.png)
+
+2.  Wait for the **Researcher Agent** to gather and summarize the data
+    review the Researcher agent carefully. The Researcher Agent may ask
+    clarifying questions. Select the report length as “Short” and select
+    “Analyze sales data and customer feedback for gaps” and select the
+    **Execute** button.
+
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%202/media/image43.png)
+
+3.  Review the output:
+
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%202/media/image44.png)
+
+### Task 7: Document Discovery and Insights 
+
+This section helps users or AI tools explore, analyse, and extract
+valuable information from existing documents, reports, or shared
+repositories. It focuses on identifying key insights, patterns, or
+references that can guide research, planning, or project documentation. 
 It helps you to find latest campaign documents and insights.
 
 1.  Under Researcher agent, paste the below given prompt in the field
-    and then click on the **Execute** button.
+    and then click on the **Execute** button.
 
-+++*Find the latest version of Zava Festive Campaign plan and summarize
-key updates.* +++
+    `Find the latest version of Zava Festive Campaign plan and summarize
+    key updates.`
 
-![](./media/image45.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%202/media/image45.png)
 
 2.  Review the output:
 
-![](./media/image46.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%202/media/image46.png)
 
-![](./media/image47.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%202/media/image47.png)
 
 3.  Enter the below given prompt in the field and then click on
-    the **Execute** button.   
-    +++*Summarize contents of shared documents related to campaign
-    planning.*+++
+    the **Execute** button.
+    
+    `Summarize contents of shared documents related to campaign
+    planning.`
 
-> ![](./media/image48.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%202/media/image48.png)
 
-4.  Review the output:
+5.  Review the output:
 
-> ![](./media/image49.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%202/media/image49.png)
 
 ### Task 8: Generate Executive Communication
 
 Use the Researcher Agent to help communicate findings to your
-team. Patricia needs a leadership update.
+team. Patricia needs a leadership update.
 
 1.  Under Researcher Agent, paste the below given prompt in the field
-    and then click on the **Execute** button. 
+    and then click on the **Execute** button. 
 
-+++*Draft an executive summary email on Zava Festive Campaign covering:*
+    ```
+    Draft an executive summary email on Zava Festive Campaign covering:
+    
+    - Progress
+    
+    - Risks
+    
+    - Key decisions
+    
+    - Next steps
+    ```
 
-*- Progress*
-
-*- Risks*
-
-*- Key decisions*
-
-*- Next steps*+++
-
-![](./media/image50.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%202/media/image50.png)
 
 2.  Review the output:
 
-![](./media/image51.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%202/media/image51.png)
 
-![](./media/image52.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%202/media/image52.png)
 
-![](./media/image53.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%202/media/image53.png)
 
-![](./media/image54.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%202/media/image54.png)
 
-### Task 9: Review and Refine the Output 
+### Task 9: Review and Refine the Output 
 
 1.  Evaluate whether the Researcher Agent’s summary meets your
-    expectations. 
+    expectations. 
 
 2.  If results are too broad or missing key details, refine your
-    prompt. 
+    prompt. 
 
-> \> **Example**: *“Narrow this summary to focus only on critical risks
-> and delivery blockers.”*
+	> [!knowledge] “Narrow this summary to focus only on critical risks and delivery blockers.”
+
 
 3.  Export or copy the summary for documentation, reports, or meeting
-    notes. 
+    notes. 
 
-![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image55.png)
+    ![A screenshot of a computer AI-generated content may be
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%202/media/image55.png)
 
-**\> Note:** Here is a brief overview of the tasks associated with each
-icon shown in the screenshot: 
+    >[!Note] Here is a brief overview of the tasks associated with each
+    icon shown in the screenshot: 
 
-![](./media/image56.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%202/media/image56.png)
 
-1.  **Clipboard Icon** – Likely used for **copying or
-    pasting** content. 
+1.  **Clipboard Icon** – Likely used for **copying or
+    pasting** content. 
 
-2.  **Thumbs-Up Icon** – Typically indicates **liking or approving** an
-    item or action. 
+2.  **Thumbs-Up Icon** – Typically indicates **liking or approving** an
+    item or action. 
 
-3.  **Thumbs-Down Icon** – Generally used to **dislike or
-    disapprove** something. 
+3.  **Thumbs-Down Icon** – Generally used to **dislike or
+    disapprove** something. 
 
-4.  **Speaker Icon** – Represents **audio settings or volume control**. 
+4.  **Speaker Icon** – Represents **audio settings or volume control**. 
 
-5.  **Pencil Icon** – Commonly used for **editing or writing** tasks. 
+5.  **Pencil Icon** – Commonly used for **editing or writing** tasks. 
 
-6.  **Clock with Arrow Icon** – Tooltip says **"Add to recent page"**,
-    which means it adds the current item to your **recently accessed
-    pages** for quick reference. 
+6.  **Clock with Arrow Icon** – Tooltip says **"Add to recent page"**,
+    which means it adds the current item to your **recently accessed
+    pages** for quick reference. 
 
 # Lab Summary
 

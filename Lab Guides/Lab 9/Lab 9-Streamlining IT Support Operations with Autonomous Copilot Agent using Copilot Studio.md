@@ -41,25 +41,23 @@ applications.
     click on the **Try for Free** button.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image1.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image1.png)
 
-2.  Enter
-    the **Username**, +++@lab.CloudPortalCredential(User1).Username+++. **select** the **checkbox** and
+2.  Enter the **Username**, +++@lab.CloudPortalCredential(User1).Username+++. **select** the **checkbox** and
     click on the **Start free** button. Select country of origin.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image2.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image2.png)
 
-3.  Enter the Temporary Access Pass
-    - +++@lab.CloudPortalCredential(User1).TAP+++
+3.  Enter the Temporary Access Pass (TAP) +++@lab.CloudPortalCredential(User1).AccessToken+++
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image3.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image3.png)
 
 4.  Select **Get Started**.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image4.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image4.png)
 
 ### **Task 2: Update the Developer environment settings**
 
@@ -72,66 +70,66 @@ incorrect.](./media/image4.png)
     - +++@lab.CloudPortalCredential(User1).AccessToken+++
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image5.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image5.png)
 
 2.  Select **Manage** from the left pane and select **+
     New** under **Environments**.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image6.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image6.png)
 
 3.  Provide the environment name as +++Dev One+++ and select the Type
     as **Developer** and select **Next**.
 
-    ![](./media/image7.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image7.png)
 
 4.  Select **Save** in the **Add Dataverse** dialog.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image8.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image8.png)
 
 5.  Once the environment is **Ready**, select the created **Dev
     One** environment.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image9.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image9.png)
 
 6.  Click on **Edit** to edit the Settings.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image10.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image10.png)
 
 7.  In the Edit pane, toggle **Administration mode** to **ON** and
     select **Save**.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image11.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image11.png)
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image12.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image12.png)
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image13.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image13.png)
 
 8.  Once the edited changes are saved, select **Settings**.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image14.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image14.png)
 
 9.  Select **Product - Features**.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image15.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image15.png)
 
 10. Under the **Features**, toggle on **Dataverse search**,
     select **save**, then toggle **Single table search** option to On
     and select **Save**.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image16.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image16.png)
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image17.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image17.png)
 
 ### **Task 3: Setting Up a Dataverse Table**
 
@@ -139,52 +137,52 @@ incorrect.](./media/image17.png)
     the **DevOne** environment from the list of environments.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image18.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image18.png)
 
 2.  From the left navigation bar select **Tables.** In the tables
     section top bar click on the **+ New table** and then
     select **Create new tables**.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image19.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image19.png)
 
 3.  Select **Import an Excel file or CSV** option to create a new table.
 
-    ![](./media/image20.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image20.png)
 
 4.  Click on the **Select form device** option and select **Support
     Ticket** excel file from **C:\LabFiles\Labfiles** folder.
 
-    ![](./media/image21.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image21.png)
 
 5.  Select **Import** in the next screen.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image22.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image22.png)
 
 6.  Select the table and click on **View data** to see the data.
 
-    [!Note] **Note:** In this case, the table is named *Employee Support
-Ticket*. The name may vary with each execution. Please save the table
-name for future reference. The column name may also vary in the
-execution.
+    >[!Note] In this case, the table is named *Employee Support
+    Ticket*. The name may vary with each execution. Please save the table
+    name for future reference. The column name may also vary in the
+    execution.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image23.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image23.png)
 
 7.  Go to table data, select the drop down next to the **Issue
     Description** field, select **Edit column**, Set the data type
     as **Text** 🡪 **Multiple line** 🡪 **Plain Text** and click on
     the **Update**. The column name may be different in each case.
 
-    [!Note] The **column name might be slightly different**, but it will
-be something similar to the issue description since it is Copilot
-generated.
+    >[!Note] The **column name might be slightly different**, but it will
+    be something similar to the issue description since it is Copilot
+    generated.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image24.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image24.png)
 
-    ![](./media/image25.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image25.png)
 
 8.  Select drop down next to the **Ticket Status** field, select **Edit
     column**, Set the Choices as +++Unresolved+++, +++Resolved+++,
@@ -192,11 +190,11 @@ incorrect.](./media/image24.png)
     the **Update**.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image26.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image26.png)
 
 9.  From top right side click on **Save and exit** to save the table.
 
-    ![](./media/image27.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image27.png)
 
 ### **Task 4: Add a file to the OneDrive**
 
@@ -204,26 +202,26 @@ incorrect.](./media/image26.png)
     select **OneDrive**.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image28.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image28.png)
 
 2.  Select **My files** - **+ Create or upload**.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image29.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image29.png)
 
 3.  Select **Files upload**.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image30.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image30.png)
 
 4.  Choose **IT Support.xlsx** from **C:\LabFiles\Labfiles**.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image31.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image31.png)
 
 5.  This file will be used in a later exercise.
 
-    ![](./media/image32.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image32.png)
 
 **Conclusion**
 
@@ -252,99 +250,99 @@ agent to streamline IT workflows.
     your login credentials. Select **Get Started**.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image33.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image33.png)
 
 2.  Select **Skip** in the Welcome popup.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image34.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image34.png)
 
-3.  Navigate to the Copilot Studio tab
-    +++https://copilotstudio.microsoft.com+++ and
-    choose **DevOne** environment.
+3.  Choose **DevOne** environment.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image35.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image35.png)
 
-    [!Alert] **Important:** If the Copilot Studio and does not show up the
-option to select **Environment** as in the below screenshot, then follow
-the below steps.
+    >[!Alert] If the Copilot Studio and does not show up the
+    option to select **Environment** as in the below screenshot, then follow
+    the below steps.
 
-    ![](./media/image36.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image36.png)
 
-Open +++https://admin.powerplatform.microsoft.com/+++.
+1. Open +++https://admin.powerplatform.microsoft.com/+++.
 Select **Manage** -> **Environments** -> **Dev env** and select the
 value of the **Environment ID**.
 
-    ![](./media/image37.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image37.png)
 
-    Navigate back to the Copilot Studio tab and open
-+++https://copilotstudio.microsoft.com/environments/< EnvironmentID >+++ (Replacing **<EnvironmentID >** with the value fetched above)
+1. Navigate back to the Copilot Studio tab and open
++++https://copilotstudio.microsoft.com/environments/< *EnvironmentID* >+++ (Replacing **<EnvironmentID >** with the value fetched above)
 
 4.  Select **Create an agent**.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image38.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image38.png)
 
 5.  Select **Edit**.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image39.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image39.png)
 
 6.  Enter **Name** and **Description** as below and select **Save**.
 
     **Name:** +++Contoso IT Support Agent+++
 
-    **Description** (Select the **Copy** option and **Paste** it in
-    the **Description** field):
-
+    **Description**:
+    
+    ```
     Create a Contoso IT Support Agent which transforms IT support at Contoso
     Solutions by providing instant troubleshooting for common issues,
     automating ticket creation for unresolved problems, and storing all
     interactions in Dataverse. This solution enhances response times,
     reduces manual workloads, and boosts employee productivity.
+    ```
 
     ![A screenshot of a computer AI-generated content may be
-    incorrect.](./media/image40.png)
+    incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image40.png)
 
-7.  Select **Edit** against the Instructions to give the instructions
+8.  Select **Edit** against the Instructions to give the instructions
     for the agent.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image41.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image41.png)
 
-8.  Enter the **instruction** and select **Save**.
+9.  Enter the **instruction** and select **Save**.
 
-    **Instruction**(Select the **Copy** option and **Paste** it in
-the **Instruction** field):
+    **Instruction**:
 
+    ```
     Create the Copilot Agent and configure it to handle IT support
-operations. Add a knowledge source containing solutions for common IT
-issues like hardware troubleshooting, connectivity, and software
-glitches. Set up a trigger to detect updates to a OneDrive file
-describing unresolved issues. Create an action to save these technical
-issues into a Dataverse table, ensuring all details are stored for
-tracking and reporting. Test the agent to validate its troubleshooting
-accuracy and ticket automation workflow before deployment.
+    operations. Add a knowledge source containing solutions for common IT
+    issues like hardware troubleshooting, connectivity, and software
+    glitches. Set up a trigger to detect updates to a OneDrive file
+    describing unresolved issues. Create an action to save these technical
+    issues into a Dataverse table, ensuring all details are stored for
+    tracking and reporting. Test the agent to validate its troubleshooting
+    accuracy and ticket automation workflow before deployment.
+    ```
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image42.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image42.png)
 
-9.  From top right corner of the agent, click on
+11.  From top right corner of the agent, click on
     the **Settings** button.
 
-    ![](./media/image43.png)
+        ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image43.png)
 
-10. Scroll down and disable the **Allow ungrounded responses** option
+11. Scroll down and disable the **Allow ungrounded responses** option
     and **Use information from the web** under the **Knowledge** section
     and then click on **Save**.
 
-    ![](./media/image44.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image44.png)
 
-11. Once **saved**, **close** the Settings pane.
+12. Once **saved**, **close** the Settings pane.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image45.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image45.png)
 
 **Conclusion**
 
@@ -373,42 +371,42 @@ ensure it effectively assists users in troubleshooting and escalation.
     Knowledge** button.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image46.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image46.png)
 
 2.  Select **Upload file** to add the lab file **Contoso Common IT
     Issue.docx** from **C:\LabFiles\Labfiles** folder
     and then click on **Add to agent** to save the file.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image47.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image47.png)
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image48.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image48.png)
 
 3.  Again, go to agent overview page, scroll down and click on **+ Add
     knowledge.**
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image49.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image49.png)
 
 4.  Select **Dataverse** option as data source.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image50.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image50.png)
 
 5.  Search for +++Employee+++, select **Employee Support Ticket** table.
     Then select **Add to agent** button to add the knowledge source.
 
-    [!Note] The **table name might be different** in your case since it is
-a Copilot generated one. Try searching for +++Support Ticket+++ if
-needed.
+    >[!Note] The **table name might be different** in your case since it is
+    a Copilot generated one. Try searching for +++Support Ticket+++ if
+    needed.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image51.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image51.png)
 
-    [!Alert] **Important:** From the Knowledge page, ensure that the added
-knowledge source has been successfully uploaded. This will generally
-take 10 to 15 30 minutes to complete.
+    >[!Alert] From the Knowledge page, ensure that the added
+    knowledge source has been successfully uploaded. This will generally
+    take 10 to 15 30 minutes to complete.
 
 ### **Task 2: Customize the Fallback Topic**
 
@@ -416,21 +414,21 @@ take 10 to 15 30 minutes to complete.
     then click and open **Fallback** topic.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image52.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image52.png)
 
 2.  Scroll down and go to message node. Update the message as given
     below:
 
-    +++I’m sorry. This information is not available in my system. You can
-raise the support ticket via mail for this issue.+++
+    `I’m sorry. This information is not available in my system. You can
+raise the support ticket via mail for this issue.`
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image53.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image53.png)
 
 3.  From top right side click on the **Save** button to save the topic.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image54.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image54.png)
 
 **Conclusion**
 
@@ -455,13 +453,13 @@ seamless interaction and escalation.
 1.  From top right corner click on the **Test** button.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image55.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image55.png)
 
-2.  Enter the prompt +++My printer is not working how to fix it+++ . It
+2.  Enter the prompt `My printer is not working how to fix it` . It
     gives the solution as per knowledge source.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image56.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image56.png)
 
 **Conclusion**
 
@@ -481,32 +479,32 @@ data in Dataverse.
 1.  Select **Flows** from the left menu bar of the agent.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image57.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image57.png)
 
 2.  Select **+ New agent flow**.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image58.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image58.png)
 
 3.  Search for and select +++**When an agent calls the flow**+++ trigger
     under **Skills**.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image59.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image59.png)
 
 4.  Select **Add an Input**.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image60.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image60.png)
 
 5.  Select **Text** as data type of input and rename the input as
     +++Name+++.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image61.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image61.png)
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image62.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image62.png)
 
 6.  With same procedure create more input as per given below details.
 
@@ -516,35 +514,35 @@ incorrect.](./media/image62.png)
     | +++Email+++  | Text  |
     |  +++Details+++ | Text  |
   
-    ![A screenshot of a computer AI-generated content may be incorrect.](./media/image63.png)
+    ![A screenshot of a computer AI-generated content may be incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image63.png)
 
 7.  Below **When an agent calls the flow**, click on **(+)** sign
     to **Add an action**.
 
-    ![](./media/image64.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image64.png)
 
 8.  In Add an action search bar, enter +++Add a new row+++ . Then
     select **Add a new row** from Microsoft Dataverse section.
 
     ![A screenshot of a computer program AI-generated content may be
-incorrect.](./media/image65.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image65.png)
 
-    [!note] **Note:** Sometimes, a Dataverse connection is not created
-automatically. You may need to **sign in** again with your
-credentials **OAuth** authentication. If a connection name is required,
-name it +++connect+++. The browser may also block the initial pop up
-window, please allow it in the right corner of the URL bar.
+    >[!Note] Sometimes, a Dataverse connection is not created
+    automatically. You may need to **sign in** again with your
+    credentials **OAuth** authentication. If a connection name is required,
+    name it +++connect+++. The browser may also block the initial pop up
+    window, please allow it in the right corner of the URL bar.
 
-    ![](./media/image66.png)
+    ![](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image66.png)
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image67.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image67.png)
 
 9.  In **Table Name** section search and select +++Employee Support
     Ticket+++ (or your corresponding table name created).
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image68.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image68.png)
 
 10. Below table name select **Show all**, then click on the particular
     field and add **input** with the help of **dynamic content** button
@@ -561,57 +559,57 @@ incorrect.](./media/image68.png)
 
 
     ![A blue line on a white background AI-generated content may be
-incorrect.](./media/image69.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image69.png)
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image70.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image70.png)
 
 11. From the top bar click on **Save draft** and then
     click **Publish**. **Close** the Power automate tab.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image71.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image71.png)
 
 12. Select the **Overview** tab.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image72.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image72.png)
 
 13. Select **Edit** under **Details**, in the flow.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image73.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image73.png)
 
 14. Name the flow as +++Create an Employee Support Ticket+++ and
     select **Save**.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image74.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image74.png)
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image75.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image75.png)
 
 15. From the **Contoso IT Support Agent** **Overview** page, select **+
     Add tool**.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image76.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image76.png)
 
 16. Select the **Flows** tab and select **Create an Employee Support
     Ticket** Agent flow.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image77.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image77.png)
 
 17. Select **Add and configure** button to add the flow.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image78.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image78.png)
 
 18. Ensure that the **tool** is **added** to the agent.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image79.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image79.png)
 
 **Conclusion**
 
@@ -643,40 +641,40 @@ deployment.
 2.  Select the **New items** icon and select **New Team**.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image80.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image80.png)
 
 3.  Enter the below details and select **Create**.
 
     - Team name - +++Support Team+++
 
-    - Description - +++This is a team to post about support requests.+++
+    - Description - `This is a team to post about support requests.`
 
     - First channel name - +++Support Channel+++
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image81.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image81.png)
 
 4.  Select **Skip** in the Add members screen.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image82.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image82.png)
 
 5.  From the Copilot Studio - overview page of the agent, scroll down
     and click on **+ Add trigger**.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image83.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image83.png)
 
 6.  Select **When a new channel message is added** trigger and
     click **Next**.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image84.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image84.png)
 
 7.  Once the connection establishment is successful, select **Next**.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image85.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image85.png)
 
 8.  Select the below values and select Create trigger.
 
@@ -685,12 +683,12 @@ incorrect.](./media/image85.png)
     - Channel - **Support Channel**
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image86.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image86.png)
 
 9.  **Close** the Time to test your trigger dialog.
 
     ![A screenshot of a computer error AI-generated content may be
-incorrect.](./media/image87.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image87.png)
 
 10. **Publish** the agent by selecting the **Publish** button from the
     top right.
@@ -700,17 +698,17 @@ incorrect.](./media/image87.png)
     select **Edit in Power Automate**.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image88.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image88.png)
 
 12. Select the + symbol below the **When a new channel message is
     added** node to add an action. In the Action pane, search for +++Get
     a row+++ and select **Get a row** under **Excel Online (Business)**.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image89.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image89.png)
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image90.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image90.png)
 
 13. Once the action is added, add the below details in it.
 
@@ -727,20 +725,20 @@ incorrect.](./media/image90.png)
     - Key Value - +++ID1234+++
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image91.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image91.png)
 
 14. Select the **Sends a prompt to the specified copilot for
     processing** node.
 
-    Under Body/message, enter +++Run the flow Create an Employee Support
-Ticket+++ then add the dynamic values, Name, ID, Email ID, Description
-and Status. Then add +++along with a message "New record added to the
-Employee Support table"+++
+    Under Body/message, enter `Run the flow Create an Employee Support
+    Ticket` then add the dynamic values, Name, ID, Email ID, Description
+    and Status. Then add `along with a message "New record added to the
+    Employee Support table"`
 
     It should look similar to the one in the screenshot below.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image92.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image92.png)
 
 15. **Save** the flow.
 
@@ -750,48 +748,48 @@ incorrect.](./media/image92.png)
     added**, select **Test**.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image93.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image93.png)
 
 2.  Select the **Manually** option and select **Test**.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image94.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image94.png)
 
 3.  Open your **Teams** and select **Post in channel** in the **Support
     Channel** team.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image95.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image95.png)
 
 4.  Enter a message and select **Post**.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image96.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image96.png)
 
 5.  Back in the Power Automate page, you can see that the flow has
     started execution and has passed.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image97.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image97.png)
 
 6.  From the agent Overview page, select **Test Trigger** icon.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image98.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image98.png)
 
 7.  Select the latest trigger and select **Start testing**.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image99.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image99.png)
 
 8.  It executes the flow, fetches the data from the Support tracker and
     update in the Dataverse table.
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image100.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image100.png)
 
     ![A screenshot of a computer AI-generated content may be
-incorrect.](./media/image101.png)
+incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%209/media/image101.png)
 
 9.  In this case, there is one support ticket detail in the tracker,
     which gets added to the Dataverse table hence creating a support
