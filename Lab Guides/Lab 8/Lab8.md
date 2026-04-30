@@ -228,14 +228,14 @@ incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs
     ![A screenshot of a computer AI-generated content may be
 incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%208/media/image28.png)
 
-   > [!Alert] If you receive an "Something went wrong" pop-up, re-copy the URL, open a new tab, and select Agent from the left-hand side to continue. The new Agent should be seen.
+    >[!Alert] If you receive an "Something went wrong" pop-up, re-copy the URL, open a new tab, and select Agent from the left-hand side to continue. The new Agent should be seen.
 
 9.  Select **Skip** in the introduction screen.
 
     ![A screenshot of a computer AI-generated content may be
 incorrect.](https://raw.githubusercontent.com/technofocus-pte/cpltagntfrntr/refs/heads/main/Lab%20Guides/Lab%208/media/image29.png)
 
-10.  The **Agentic HR** agent is now added. Select **Agentic HR** from
+10. The **Agentic HR** agent is now added. Select **Agentic HR** from
     the left navigation pane.
 
 11. In the **Agentic HR agent** screen, send the below message.
